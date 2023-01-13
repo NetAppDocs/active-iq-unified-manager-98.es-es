@@ -1,0 +1,56 @@
+---
+permalink: online-help/concept-managing-backup-and-restore-operations.html 
+sidebar: sidebar 
+keywords: backup types 
+summary: 'Puede crear backups de Unified Manager y utilizar la función de restauración para restaurar el backup en el mismo sistema \(local\) o en un nuevo sistema \(remoto\) en caso de un fallo del sistema o pérdida de datos.' 
+---
+= Gestión de operaciones de backup y restauración
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Puede crear backups de Unified Manager y utilizar la función de restauración para restaurar el backup en el mismo sistema (local) o un nuevo sistema (remoto) en caso de un fallo del sistema o pérdida de datos.
+
+Existen tres métodos de backup y restauración según el sistema operativo en el que haya instalado Unified Manager y según el número de clústeres y nodos que se gestionan:
+
+|===
+| Sistema operativo | Tamaño de la puesta en marcha | Método de copia de seguridad recomendado 
+
+
+ a| 
+VSphere de VMware
+ a| 
+Cualquiera
+ a| 
+Copia Snapshot de VMware del dispositivo virtual de Unified Manager
+
+
+
+ a| 
+Red Hat Enterprise Linux o CentOS de Linux
+ a| 
+Pequeño
+ a| 
+Volcado de base de datos MySQL de Unified Manager
+
+
+
+ a| 
+ a| 
+Grande
+ a| 
+Snapshot de NetApp de la base de datos de Unified Manager
+
+
+
+ a| 
+Microsoft Windows
+ a| 
+Cualquiera
+ a| 
+Volcado de base de datos MySQL de Unified Manager
+
+|===
+Estos diferentes métodos se describen en las secciones siguientes.

@@ -1,0 +1,38 @@
+---
+permalink: online-help/task-enabling-periodic-autosupport.html 
+sidebar: sidebar 
+keywords: Active IQ 
+summary: Puede elegir que se envíen mensajes de AutoSupport específicos y predefinidos automáticamente desde Unified Manager al soporte técnico para garantizar el funcionamiento correcto del entorno y para ayudarle a mantener la integridad del entorno. AutoSupport está habilitado de forma predeterminada y no debe deshabilitarse para poder recibir los beneficios de Active IQ de NetApp. 
+---
+= Habilitar AutoSupport periódica
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Puede elegir que se envíen mensajes de AutoSupport específicos y predefinidos automáticamente desde Unified Manager al soporte técnico para garantizar el funcionamiento correcto del entorno y para ayudarle a mantener la integridad del entorno. AutoSupport está habilitado de forma predeterminada y no debe deshabilitarse para poder recibir los beneficios de Active IQ de NetApp.
+
+
+
+== Antes de empezar
+
+Debe iniciar sesión como el usuario de mantenimiento.
+
+
+
+== Acerca de esta tarea
+
+Active IQ es una aplicación basada en web alojada en el sitio de soporte de NetApp al que se puede acceder mediante un navegador. El sistema debe tener AutoSupport habilitado y configurado para que envíe los datos de vuelta a NetApp.
+
+https://mysupport.netapp.com/info/web/AboutAIQ.html["Active IQ de NetApp"]
+
+
+
+== Pasos
+
+. En el panel de navegación izquierdo, haga clic en *General* > *AutoSupport*.
+. Active la casilla de verificación *Activar envío de datos AutoSupport periódicamente a Active IQ*.
+. Si es necesario, defina el nombre, el puerto y la información de autenticación del servidor proxy HTTP.
+. Haga clic en *Guardar*.
+

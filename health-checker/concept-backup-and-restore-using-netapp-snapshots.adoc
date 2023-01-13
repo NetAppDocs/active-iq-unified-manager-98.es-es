@@ -1,0 +1,25 @@
+---
+permalink: health-checker/concept-backup-and-restore-using-netapp-snapshots.html 
+sidebar: sidebar 
+keywords:  
+summary: Un backup de Snapshot de NetApp crea una imagen de un momento específico de los archivos de configuración y base de datos de Unified Manager que se pueden utilizar para restaurar en caso de fallo del sistema o pérdida de datos. Programa que un backup de Snapshot se escriba en un volumen en uno de los clústeres de ONTAP periódicamente para que siempre tenga una copia actual. 
+---
+= Backups y restauraciones con Snapshot de NetApp
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Un backup de Snapshot de NetApp crea una imagen de un momento específico de los archivos de configuración y base de datos de Unified Manager que se pueden utilizar para restaurar en caso de fallo del sistema o pérdida de datos. Programa que un backup de Snapshot se escriba en un volumen en uno de los clústeres de ONTAP periódicamente para que siempre tenga una copia actual.
+
+[NOTE]
+====
+Esta funcionalidad solo está disponible cuando Unified Manager se instala en un servidor Red Hat Enterprise Linux o CentOS de Linux.
+
+====
+Los backups de copias Snapshot tardan muy poco tiempo, por lo general sólo unos minutos. La base de datos de Unified Manager se bloquea durante un período muy breve, por lo que la instalación apenas se produce ninguna interrupción. La imagen consume un espacio de almacenamiento mínimo y tiene una sobrecarga del rendimiento mínima, ya que solo registra los cambios que se han realizado en los ficheros desde que se realizó la última copia Snapshot. Dado que la copia Snapshot se crea en un clúster de ONTAP, puede aprovechar otras funciones de NetApp, como SnapMirror, para crear una protección secundaria, si es necesario.
+
+Antes de iniciar una operación de backup, Unified Manager realiza una comprobación de integridad para verificar que el sistema de destino está disponible.
+
+Tenga en cuenta que puede restaurar un backup de Snapshot solo en la misma versión de Unified Manager. Por ejemplo, si creó un backup en Unified Manager 9.8, el backup solo se puede restaurar en sistemas Unified Manager 9.8.

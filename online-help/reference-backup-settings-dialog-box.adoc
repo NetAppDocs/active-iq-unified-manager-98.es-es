@@ -1,0 +1,66 @@
+---
+permalink: online-help/reference-backup-settings-dialog-box.html 
+sidebar: sidebar 
+keywords:  
+summary: Defina la programación de backups, el número de retención y el método de backup de volcado de la base de datos MySQL, la ruta de acceso de backup para una instancia de Unified Manager seleccionada. 
+---
+= Cuadro de diálogo Backup Settings
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Defina la programación de backups, el número de retención y el método de backup de volcado de la base de datos MySQL, la ruta de acceso de backup para una instancia de Unified Manager seleccionada.
+
+Puede cambiar la siguiente configuración de copia de seguridad de la base de datos:
+
+* *Ruta*
++
+Cuando se utiliza el método de copia de seguridad de volcado de base de datos MySQL, este campo especifica la ruta de acceso a la ubicación en la que se almacenan los archivos de copia de seguridad. Cuando se utiliza el método de backup de Snapshot, esta ubicación muestra el clúster, la máquina virtual de almacenamiento y el volumen donde se almacenará el backup.
+
++
+En la siguiente tabla se especifica el formato de ruta de backup y las ubicaciones predeterminadas, para los diferentes sistemas operativos:
+
++
+|===
+| Sistema operativo del host | Formato de ruta de copia de seguridad 
+
+
+ a| 
+Dispositivo virtual
+ a| 
+`/opt/netapp/data/ocum-backup`
+
+
+
+ a| 
+Red Hat Enterprise Linux o CentOS de Linux
+ a| 
+`/data/ocum-backup`
+
+
+
+ a| 
+Microsoft Windows
+ a| 
+`C:\ProgramData\NetApp\OnCommandAppData\ocum\backup\`
+
+|===
+* *Recuento de retención*
++
+Especifica la cantidad máxima de backups que debe retener Unified Manager. El valor predeterminado es 10.
+
+* *Diario programado*
++
+Especifica la programación de backup diario con la hora.
+
+* *Semanal programado*
++
+Especifica la programación de backups semanales con el día y la hora.
+
+* *Ninguno*
++
+Especifica que no se crearán backups.
+
+

@@ -1,0 +1,22 @@
+---
+permalink: health-checker/task-send-a-support-bundle-to-technical-support.html 
+sidebar: sidebar 
+keywords:  
+summary: Este flujo de trabajo muestra cómo generar, recuperar y enviar un bundle de soporte al soporte técnico mediante la consola de mantenimiento de Unified Manager. Debe enviar un bundle de soporte cuando el problema requiere un diagnóstico y una solución de problemas más detallados de los que proporciona un mensaje AutoSupport. 
+---
+= Enviar un bundle de soporte de Unified Manager al soporte técnico
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Este flujo de trabajo muestra cómo generar, recuperar y enviar un bundle de soporte al soporte técnico mediante la consola de mantenimiento de Unified Manager. Debe enviar un bundle de soporte cuando el problema requiere un diagnóstico y una solución de problemas más detallados de los que proporciona un mensaje AutoSupport.
+
+
+
+== Acerca de esta tarea
+
+Unified Manager almacena un máximo de dos paquetes de soporte generados a la vez.
+
+Para obtener más información acerca de la consola de mantenimiento, consulte link:../config/concept-configuring-unified-manager.html["Configurando Active IQ Unified Manager"].

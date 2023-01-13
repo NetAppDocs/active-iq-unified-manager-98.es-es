@@ -1,0 +1,15 @@
+---
+permalink: install-linux/generic-machine-translation-disclaimer.html 
+sidebar: sidebar 
+keywords:  
+summary:  
+---
+= Traducción automática
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+Consulte información importante sobre el contenido localizado en netapp.com.
+
+https://www.netapp.com/company/legal/machine-translation/[]
