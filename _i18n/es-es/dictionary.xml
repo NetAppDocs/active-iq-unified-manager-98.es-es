@@ -5212,15 +5212,11 @@
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Avisos legales</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Los avisos legales proporcionan acceso a las declaraciones de copyright, marcas comerciales, patentes y mucho más.</block>
   <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Derechos de autor</block>
-  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
   <block id="126a02652da6de02962cf1b654fd6376" category="section-title">Marcas comerciales</block>
   <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NETAPP, el logotipo de NETAPP y las marcas enumeradas en la página de marcas comerciales de NetApp son marcas comerciales de NetApp, Inc. Los demás nombres de empresas y productos son marcas comerciales de sus respectivos propietarios.</block>
-  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
   <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">Estadounidenses</block>
   <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">Puede encontrar una lista actual de las patentes propiedad de NetApp en:</block>
-  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
   <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">Política de privacidad</block>
-  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Código abierto</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Los archivos de notificación proporcionan información sobre los derechos de autor y las licencias de terceros que se utilizan en software de NetApp.</block>
   <block id="d9da04021c0653b4d846fc45e7503123" category="inline-link">Aviso para Active IQ Unified Manager 9.8</block>
@@ -12727,5 +12723,60 @@
   <block id="934638be8df77592d1266dcfa6456cab" category="paragraph">Puede aplicar la Política de eficiencia del almacenamiento nueva o modificada a las cargas de trabajo (LUN, recursos compartidos de archivos NFS, recursos compartidos de CIFS) desde la página de cargas de trabajo o al aprovisionar una carga de trabajo nueva.</block>
   <block id="d63355e1f8f28fc591a0272b5c397664" category="summary">La aplicación de umbrales en la vista Zoom de gráficos de contador proporciona una vista detallada de las ocurrencias de eventos de umbral de rendimiento. Esto le permite aplicar o eliminar umbrales y ver inmediatamente los resultados, lo cual puede ser útil a la vez que decide si la solución de problemas debe ser el siguiente paso.</block>
   <block id="3281d3cf4c4ca1f96b69c7a91e685f99" category="doc">Selección de umbrales de rendimiento en la vista Zoom de gráficos de contador</block>
-  <block id="09d454f0bf432593d99fbfd84c9f9293" category="sidebar">Realizar tareas administrativas y de configuración</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c1a9193a29dc40ec352c6691d67ab578" category="sidebar">Instale Unified Manager en sistemas Windows</block>
+  <block id="a0af5ca8f7344392b5c82b109a63af72" category="sidebar">Introducción a Active IQ Unified Manager (sistemas Windows)</block>
+  <block id="70104377094a1b08793fc5ab5e6bbf34" category="sidebar">Requisitos para la instalación de Unified Manager (sistemas Windows)</block>
+  <block id="8d6c82b2ac4ea5256730039b09b01a10" category="sidebar">Instalación, actualización y eliminación del software Unified Manager (sistemas Windows)</block>
+  <block id="013bd757b5f39b48944aa701029bfff3" category="sidebar">Actualización de productos de terceros (sistemas Windows)</block>
+  <block id="9fde9515d3a1ede8d6f12a1892c894ec" category="sidebar">Ayuda en línea</block>
+  <block id="d667ab1eefcedffdc31f52ebff9d478d" category="sidebar">Introducción a Active IQ Unified Manager (administración y supervisión)</block>
+  <block id="21287f9310da73025b9619111ce2ce7e" category="sidebar">¿Qué opciones tengo cuando veo <strong></strong><strong></strong> el botón reparar o reparar todo</block>
+  <block id="19966a54541b838c85278932c36c8122" category="sidebar">Cambiar el nombre de host de Unified Manager (gestión y supervisión)</block>
+  <block id="433a3de67ad10a966d2b8b61c37210d2" category="sidebar">Agregar espacio en disco al directorio de la base de datos de Unified Manager (gestionar y supervisar)</block>
+  <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">Generar informes personalizados</block>
+  <block id="6f047d4c177cc734ed65cb347cf6bd42" category="sidebar">Supervise y gestione el rendimiento de los clústeres</block>
+  <block id="7b6c318fd25f9f3167946ff1cd519b37" category="sidebar">Gestionar los umbrales de rendimiento (rendimiento del clúster)</block>
+  <block id="5cee3e2a7d9fd3a450c386f7bc50f8d8" category="sidebar">Solucionar problemas de cargas de trabajo mediante el analizador de cargas de trabajo (rendimiento del clúster)</block>
+  <block id="4055607a505292e96a80554fd58a4e64" category="sidebar">Supervisión del rendimiento del clúster en la página Performance Cluster Landing (rendimiento del clúster)</block>
+  <block id="0db41ee78b37bb6a911896e1706e1db1" category="sidebar">Página de destino de clústeres de rendimiento (rendimiento del clúster)</block>
+  <block id="14c992efb73d9230b778a5be1e48b109" category="sidebar">Página Performance Cluster Summary (rendimiento del clúster)</block>
+  <block id="bd4d7fc7efe51394c5609e7028a89161" category="sidebar">Supervisar el rendimiento mediante las páginas Performance Inventory (rendimiento del clúster)</block>
+  <block id="60e931429de36a253ed4281414506246" category="sidebar">Refinado del contenido de la página del inventario de rendimiento (rendimiento del clúster)</block>
+  <block id="cd98155c9ebd0b4e5798d08fe818d0c0" category="sidebar">Supervisar el rendimiento mediante las páginas Performance Explorer (rendimiento del clúster)</block>
+  <block id="3bfdbbba06a0da9a30e5dfb4f4a5c52b" category="sidebar">Especificar un intervalo de tiempo para objetos correlacionados (rendimiento del clúster)</block>
+  <block id="7e3d11e39c296556e26128597a83be5f" category="sidebar">Vista de zoom de los gráficos de contador (rendimiento del clúster)</block>
+  <block id="997c11eb30499c63077ded6cd0af0797" category="sidebar">Componentes de las páginas de destino de objetos (rendimiento del clúster)</block>
+  <block id="13863084fbe609ffbdbde5379b405b9f" category="sidebar">Gestionar el rendimiento mediante información del grupo de políticas de calidad de servicio (rendimiento de clúster)</block>
+  <block id="833536b007e5dc522ec95154291d5673" category="sidebar">Gestionar el rendimiento mediante la capacidad de rendimiento y la información de IOPS disponible (rendimiento de clúster)</block>
+  <block id="f7d8295b62383c5905f73d94fab2a91d" category="sidebar">Comprender y utilizar la página Planificación de conmutación por error de nodos (rendimiento del clúster)</block>
+  <block id="31c08b81891f5ffa387874cd28b4729a" category="sidebar">Recogida de datos y supervisión del rendimiento de carga de trabajo (rendimiento del clúster)</block>
+  <block id="a64ee0d6babd0439c9f3674e47406b5f" category="sidebar">Supervisión del rendimiento de configuraciones MetroCluster (rendimiento de clúster)</block>
+  <block id="93bc2e54f1178627cbf74d7ff9d4d422" category="sidebar">Qué eventos de rendimiento son (rendimiento de clúster)</block>
+  <block id="8096ca2fd7af9cca5f4e4e621ddfe88e" category="sidebar">Análisis de eventos de rendimiento (rendimiento de clúster)</block>
+  <block id="1f7b694fa151b6e5e94d108b2f19dff2" category="sidebar">Análisis de eventos de umbrales de rendimiento definidos por el usuario (rendimiento del clúster)</block>
+  <block id="89c39eda634097d08c2d019a482285c2" category="sidebar">Análisis de eventos de umbrales de rendimiento definidos por el sistema (rendimiento del clúster)</block>
+  <block id="a5f9c0660ea467c7c86afc1f051b7386" category="sidebar">Analizar eventos de umbrales dinámicos de rendimiento (rendimiento de clúster)</block>
+  <block id="78ad073c3d86b8f6327c6e3f8b6530e4" category="sidebar">Análisis de eventos de rendimiento para una configuración de MetroCluster (rendimiento del clúster)</block>
+  <block id="32d8b1bb1bdc5067bfbde495253b3469" category="sidebar">Supervise y gestione el estado del clúster</block>
+  <block id="0cdc2e43fd617d44b61e3c28d05ef9e7" category="sidebar">Gestionar los umbrales de estado (estado del clúster)</block>
+  <block id="a4d86585f88de3caa783eefc33f81448" category="sidebar">Configurar las opciones del umbral de estado global (estado del clúster)</block>
+  <block id="d399cb65a45975e7bdfbe00c026f9e54" category="sidebar">Gestionar los objetivos de seguridad del clúster (estado del clúster)</block>
+  <block id="595ab232cf3a33e7d9061971978c8478" category="sidebar">Qué criterios de seguridad se están evaluando (estado del clúster)</block>
+  <block id="99f7fc554597facf78ccd7bebb349a82" category="sidebar">Gestionar operaciones de backup y restauración (estado del clúster)</block>
+  <block id="3b1058ff08792a3433d6a10b9fb8b6fe" category="sidebar">Backup y restauración con un volcado de base de datos de MySQL (estado del clúster)</block>
+  <block id="534c8d4c808923383712e17e50530568" category="sidebar">Backup y restauración mediante snapshots de NetApp (estado del clúster)</block>
+  <block id="41373b97896fa2cbe5f9c98d158879dc" category="sidebar">Gestionar scripts (estado del clúster)</block>
+  <block id="8cb3de1dd32fe03b6b18b81a93da83e8" category="sidebar">Gestionar y supervisar grupos (estado del clúster)</block>
+  <block id="ed4a47a0df5e1dccb40840219fa50571" category="sidebar">Grupos (estado del clúster)</block>
+  <block id="458c6c03d066ca184930dd208d270f0f" category="sidebar">Qué es una ventana de mantenimiento de Unified Manager (estado del clúster)</block>
+  <block id="b6a37febbfcd299253addfaef17d14d2" category="sidebar">Gestionar la configuración de autenticación de SAML (estado del clúster)</block>
+  <block id="b18762187a76685e14050770c534b8bf" category="sidebar">Página de detalles Event (estado del clúster)</block>
 </blocks>
