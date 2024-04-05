@@ -1,9 +1,9 @@
 ---
 section: online-help
-title: Ayuda en línea
+title: 9fde9515d3a1ede8d6f12a1892c894ec
 entries:
 - title: Introducción a Active IQ Unified Manager
-  pdf-filename: Introducción a Active IQ Unified Manager (administración y supervisión)
+  pdf-filename: d667ab1eefcedffdc31f52ebff9d478d
   url: "/online-help/concept-introduction-to-unified-manager.html"
   entries:
   - title: Introducción a la supervisión del estado de Active IQ Unified Manager
@@ -52,7 +52,7 @@ entries:
   - title: Solución de problemas de ONTAP directamente desde Unified Manager
     url: "/online-help/concept-fixing-ontap-issues-directly-from-unified-manager.html"
     entries:
-    - title: "¿Qué opciones tengo cuando veo  el botón reparar o reparar todo"
+    - title: 21287f9310da73025b9619111ce2ce7e
       url: "/online-help/concept-what-options-do-i-have-when-i-see-the-fix-it-button.html"
     - title: Ver el estado de las acciones de gestión que ha elegido corregir
       url: "/online-help/task-viewing-the-status-of-all-management-actions-you-have-chosen-to-fix.html"
@@ -1490,7 +1490,7 @@ entries:
   url: "/online-help/concept-troubleshooting.html"
   entries:
   - title: Cambie el nombre de host de Unified Manager
-    pdf-filename: Cambiar el nombre de host de Unified Manager (gestión y supervisión)
+    pdf-filename: 19966a54541b838c85278932c36c8122
     url: "/online-help/concept-changing-the-unified-manager-host-name.html"
     entries:
     - title: Cambiar el nombre de host de la aplicación virtual de Unified Manager
@@ -1498,8 +1498,7 @@ entries:
     - title: Cambiar el nombre de host de Unified Manager en sistemas Linux
       url: "/online-help/task-changing-the-unified-manager-host-name-on-rhel-or-centos.html"
   - title: Agregar espacio en disco al directorio de la base de datos de Unified Manager
-    pdf-filename: Agregar espacio en disco al directorio de la base de datos de Unified
-      Manager (gestionar y supervisar)
+    pdf-filename: 433a3de67ad10a966d2b8b61c37210d2
     url: "/online-help/concept-adding-disk-space-to-the-unified-manager-database-directory.html"
     entries:
     - title: Adición de espacio al disco de datos de la máquina virtual de VMware
