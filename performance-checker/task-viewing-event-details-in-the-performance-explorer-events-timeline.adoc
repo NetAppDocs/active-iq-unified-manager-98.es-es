@@ -15,6 +15,7 @@ Puede ver todos los eventos y sus detalles relacionados en el panel línea de ti
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 El panel línea de tiempo de eventos muestra eventos críticos, de error, de advertencia e informativos que se produjeron en el objeto raíz durante el intervalo de tiempo seleccionado. Cada gravedad de evento tiene su propia línea de tiempo. Los eventos únicos y múltiples se representan mediante un punto de evento en la línea de tiempo. Es posible colocar el cursor sobre un punto de evento para ver los detalles del evento. Para aumentar la granularidad visual de varios eventos, puede reducir el intervalo de tiempo. De esta forma, se propagan varios eventos en eventos individuales, lo que le permite ver e investigar por separado cada evento.
@@ -23,6 +24,7 @@ Cada punto de evento de rendimiento de la línea de tiempo de eventos se alinea 
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel *escala de tiempo de eventos*, coloque el cursor sobre un punto de evento en una línea de tiempo para ver un resumen del evento o eventos en ese punto de evento.

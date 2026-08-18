@@ -15,6 +15,7 @@ Cuando se deshabilita un volumen de origen en la relación de protección debido
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Cuando se deshabilita un volumen de origen en la relación de protección debido
 
 
 
+[[steps]]
 == Pasos
 
 . xref:task-breaking-a-snapmirror-relationship-from-the-health-volume-details-page.adoc[Rompa la relación de SnapMirror].

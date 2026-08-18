@@ -15,18 +15,21 @@ Puede crear grupos para combinar clústeres, volúmenes y máquinas virtuales de
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede definir reglas de grupo para agregar o quitar miembros del grupo y modificar acciones de grupo para el grupo.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *grupos*.

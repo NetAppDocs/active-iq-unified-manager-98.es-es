@@ -15,6 +15,7 @@ Si se produce la pérdida de datos o daños en los datos, es posible restaurar U
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener las credenciales de usuario raíz del host Linux en el que está instalado Unified Manager.
@@ -23,12 +24,14 @@ Si se produce la pérdida de datos o daños en los datos, es posible restaurar U
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La función de restauración es específica de la plataforma y de cada versión. Puede restaurar un backup de Unified Manager solo en la misma versión de Unified Manager.
 
 
 
+[[steps]]
 == Pasos
 
 . Mediante Secure Shell, conéctese a la dirección IP o al nombre de dominio completo del sistema Unified Manager.
@@ -46,6 +49,7 @@ Si va a realizar una restauración en un servidor nuevo, después de instalar Un
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Después de restaurar el backup, si el servidor OnCommand Workflow Automation no funciona, realice los siguientes pasos:

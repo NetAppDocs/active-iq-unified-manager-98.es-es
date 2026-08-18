@@ -15,6 +15,7 @@ Puede asignar eventos sin asignar a usted mismo o a otros usuarios, incluidos lo
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * El nombre del usuario y el ID de correo electrónico deben estar configurados correctamente.
@@ -23,6 +24,7 @@ Puede asignar eventos sin asignar a usted mismo o a otros usuarios, incluidos lo
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Gestión de eventos*.

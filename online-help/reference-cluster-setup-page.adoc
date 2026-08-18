@@ -17,6 +17,7 @@ Un mensaje en la parte inferior de la página indica la frecuencia con la que Un
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Agregar*
@@ -45,6 +46,7 @@ Fuerza una operación de detección del clúster para actualizar la recogida de 
 
 
 
+[[clusters-list]]
 == Lista Clusters
 
 En la lista Clusters, se muestran las propiedades de todos los clústeres detectados. Puede hacer clic en un encabezado de columna para ordenar los clústeres por esa columna.

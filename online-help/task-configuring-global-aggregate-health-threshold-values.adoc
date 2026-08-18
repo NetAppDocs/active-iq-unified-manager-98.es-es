@@ -15,12 +15,14 @@ Puede configurar valores de umbral de estado global para todos los agregados par
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Al configurar las opciones globalmente, se modifican los valores predeterminados de los objetos. Sin embargo, si los valores predeterminados se han cambiado a nivel de objeto, los valores globales no se modifican.
@@ -36,6 +38,7 @@ Los valores de umbral de estado no se aplican al agregado raíz del nodo.
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *umbrales de evento* > *agregado*.

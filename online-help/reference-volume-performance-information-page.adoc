@@ -15,6 +15,7 @@ Use esta página para ver una lista de los atributos físicos y lógicos del vol
 
 
 
+[[volume-attributes]]
 == Atributos de volumen
 
 * *Tipo*

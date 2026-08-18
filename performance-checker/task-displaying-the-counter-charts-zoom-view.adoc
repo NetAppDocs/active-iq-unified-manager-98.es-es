@@ -15,12 +15,14 @@ La vista de zoom de Counter Charts proporciona un nivel más preciso de detalle 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede visualizar la vista de zoom de las cartas de contador para cualquier gráfico de contadores.
 
 
 
+[[steps]]
 == Pasos
 
 . Haga clic en *Zoom View* para abrir la carta seleccionada una nueva ventana del explorador.

@@ -15,6 +15,7 @@ Filtre los datos para asegurarse de que los resultados coinciden con los requisi
 
 
 
+[[steps]]
 == Pasos
 
 . Haga clic en el icono de filtro para agregar filtros para enfocar los resultados que desea ver y, a continuación, haga clic en *aplicar filtro*.

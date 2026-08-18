@@ -17,6 +17,7 @@ La lista de políticas de umbral de rendimiento se ordena alfabéticamente por n
 
 
 
+[[filter-and-search-bar]]
 == Filtrar y buscar barra
 
 El botón *filtrado* le permite afinar la lista de directivas de umbral mostrando sólo las directivas que coinciden con determinados criterios.
@@ -25,6 +26,7 @@ El botón *Buscar* permite buscar determinadas directivas introduciendo nombres 
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Crear*
@@ -47,6 +49,7 @@ Elimina la política de umbral de rendimiento seleccionada. La política se elim
 
 
 
+[[threshold-policies-list]]
 == Lista de políticas de umbral
 
 * *Nombre de la política*

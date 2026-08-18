@@ -15,6 +15,7 @@ Use la página NVMe Namespace/Performance Information para ver una lista de los 
 
 
 
+[[nvme-namespace-attributes]]
 == Atributos de espacio de nombres de NVMe
 
 * *Cluster*

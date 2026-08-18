@@ -23,6 +23,7 @@ Hay dos tipos de gráficos de capacidad de rendimiento utilizados disponibles:
 
 
 
+[[performance-capacity-used-total-counter-chart]]
 == Capacidad de rendimiento utilizada - Gráfico de contadores total
 
 Muestra el porcentaje de capacidad de rendimiento que consume el nodo o el agregado.
@@ -43,12 +44,14 @@ El valor de capacidad está por encima del umbral de advertencia y cerca del umb
 
 
 
+[[performance-capacity-used-breakdown-counter-chart]]
 == Capacidad de rendimiento utilizada: Gráfico de contadores de desglose
 
 Muestra el mismo porcentaje de capacidad de rendimiento separada en protocolos de usuario, procesos en segundo plano del sistema y la cantidad de capacidad de rendimiento libre.
 
 
 
+[[zoom-view-button]]
 == *Botón Zoom View*
 
 Muestra una vista ampliada de los datos del gráfico de contadores.

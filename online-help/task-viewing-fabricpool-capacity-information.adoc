@@ -15,6 +15,7 @@ Es posible ver información sobre la capacidad de FabricPool de los clústeres, 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Estas páginas muestran información, como la capacidad disponible en el nivel de rendimiento local y en el nivel de nube, cuánta capacidad se utiliza en ambos niveles, qué agregados están conectados a un nivel de la nube, Y qué volúmenes están implementando las funciones de FabricPool moviendo cierta información al nivel de cloud.
@@ -23,6 +24,7 @@ Cuando un nivel de nube se duplica con otro proveedor de la nube (el «nivel de 
 
 
 
+[[steps]]
 == Pasos
 
 . Realice una de las siguientes acciones:
@@ -79,6 +81,7 @@ La pantalla muestra el nombre de la política de organización en niveles de Fab
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Para obtener más información acerca de los agregados de FabricPool, consulte la _ONTAP 9 Guía completa de discos y agregados.

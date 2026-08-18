@@ -15,12 +15,14 @@ El intervalo de recogida predeterminado para las estadísticas de rendimiento es
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener un ID de usuario y una contraseña autorizados para iniciar sesión en la consola de mantenimiento del servidor de Unified Manager.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La emisión de colecciones de estadísticas de rendimiento no terminado a tiempo se indica mediante los mensajes de mensaje de cabecera `Unable to consistently collect from cluster <cluster_name>` o. `Data collection is taking too long on cluster <cluster_name>`.
@@ -36,6 +38,7 @@ Un mensaje en la parte inferior de la página Cluster Setup indica el intervalo 
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión con SSH como usuario de mantenimiento en el host de Unified Manager.
@@ -49,6 +52,7 @@ Se muestran los mensajes de la consola de mantenimiento de Unified Manager.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Si cambió el intervalo de recogida de Unified Manager a 10 o 15 minutos y tiene una conexión actual con un proveedor de datos externo (como Graphite), debe cambiar el intervalo de transmisión del proveedor de datos de modo que sea igual o mayor que el intervalo de recogida de Unified Manager.

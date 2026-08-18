@@ -15,6 +15,7 @@ Puede iniciar sesión en la interfaz de usuario de Unified Manager mediante un e
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * El navegador web debe cumplir los requisitos mínimos.
@@ -26,12 +27,14 @@ Consulte la matriz de interoperabilidad en http://mysupport.netapp.com/matrix["m
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Se cerrará automáticamente la sesión después de 1 hora de inactividad. Este periodo de tiempo se puede configurar en *General* > *Configuración de funciones*.
 
 
 
+[[steps]]
 == Pasos
 
 . Introduzca la URL en su navegador web, donde `URL` Es la dirección IP o el nombre de dominio completo (FQDN) de Unified Manager Server:

@@ -15,6 +15,7 @@ Unified Manager puede enviar datos de rendimiento de clúster a un servidor exte
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener un ID de usuario autorizado para iniciar sesión en la consola de mantenimiento del servidor de Unified Manager.
@@ -46,12 +47,14 @@ Si se cambia el intervalo de recogida de rendimiento de Unified Manager a 10 o 1
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Es posible configurar una conexión entre un servidor de Unified Manager y un servidor de proveedor de datos externo.
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión como el usuario de mantenimiento en la consola de mantenimiento del servidor de Unified Manager.
@@ -123,6 +126,7 @@ Activar/desactivar
 
 
 
+[[results]]
 == Resultados
 
 Una vez configurada la conexión, los datos de rendimiento seleccionados se envían al servidor de destino en el intervalo de tiempo especificado. Tarda unos minutos en aparecer las métricas en la herramienta externa. Es posible que deba actualizar el explorador para ver las nuevas métricas en la jerarquía de métricas.

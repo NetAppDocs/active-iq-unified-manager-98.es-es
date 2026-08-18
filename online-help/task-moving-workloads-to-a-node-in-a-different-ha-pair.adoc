@@ -15,6 +15,7 @@ Puede usar Unified Manager para ayudar a identificar un agregado en un nodo en u
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -29,6 +30,7 @@ No puede utilizar este proceso de corrección si solo tiene un par de alta dispo
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Mover cargas de trabajo de alto rendimiento a un agregado en un nodo con una capacidad de rendimiento más libre permite que las cargas de trabajo de ambos nodos tengan un rendimiento más eficiente. Este procedimiento le ayuda a identificar los siguientes recursos para que pueda mover cargas de trabajo de alto rendimiento a un nodo con más capacidad de rendimiento libre en un par de alta disponibilidad diferente:
@@ -40,6 +42,7 @@ Mover cargas de trabajo de alto rendimiento a un agregado en un nodo con una cap
 
 
 
+[[steps]]
 == Pasos
 
 . Identifique los nodos que forman parte de una pareja de alta disponibilidad diferente en el mismo clúster:
@@ -104,6 +107,7 @@ Puede llevar a cabo la operación de transferencia con System Manager de ONTAP, 
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Tras unos días, puede comprobar si está recibiendo el mismo tipo de eventos de este nodo o agregado.

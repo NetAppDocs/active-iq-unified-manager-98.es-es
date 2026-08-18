@@ -15,12 +15,14 @@ De forma predeterminada, Unified Manager almacena datos de eventos y datos de re
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede cambiar los períodos de retención de estos dos tipos de datos en la página Data Retention. Esta configuración afecta la retención de datos de todos los clústeres que está supervisando esta instancia de Unified Manager.
@@ -41,6 +43,7 @@ Debe reducir el período de retención solo si se está quedando sin espacio o s
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Directivas* > *retención de datos*.

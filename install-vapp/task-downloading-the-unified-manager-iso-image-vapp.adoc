@@ -15,12 +15,14 @@ Antes de actualizar Unified Manager, descargue el archivo de actualización de U
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener credenciales de inicio de sesión en el sitio de soporte de NetApp.
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión en el sitio de soporte de NetApp: https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["Sitio de soporte de NetApp"^]

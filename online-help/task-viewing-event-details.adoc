@@ -15,18 +15,21 @@ Puede ver detalles sobre un evento que ha activado Unified Manager para realizar
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Los detalles del evento incluyen información como el origen del evento, la causa del evento y cualquier nota relacionada con el evento.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Gestión de eventos*.

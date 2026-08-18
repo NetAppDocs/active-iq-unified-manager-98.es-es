@@ -15,6 +15,7 @@ Los eventos de máquina virtual de almacenamiento le proporcionan información s
 
 
 
+[[impact-area-availability]]
 == Área de impacto: Disponibilidad
 
 Un asterisco (*) identifica los eventos de EMS que se han convertido a eventos de Unified Manager.
@@ -255,6 +256,7 @@ Error
 |===
 
 
+[[impact-area-configuration]]
 == Área de impacto: Configuración
 
 |===
@@ -331,6 +333,7 @@ Información
 |===
 
 
+[[impact-area-performance]]
 == Área de impacto: Rendimiento
 
 |===
@@ -404,6 +407,7 @@ Advertencia
 |===
 
 
+[[impact-area-security]]
 == Área de impacto: Seguridad
 
 |===

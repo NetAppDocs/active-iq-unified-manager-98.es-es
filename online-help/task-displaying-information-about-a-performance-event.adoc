@@ -15,6 +15,7 @@ La página del inventario Event Management se puede usar para ver una lista de t
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -22,6 +23,7 @@ La página del inventario Event Management se puede usar para ver una lista de t
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La lista de eventos se ordena por hora detectada, con los eventos más recientes listados primero. Puede hacer clic en un encabezado de columna para ordenar los eventos según esa columna. Por ejemplo, puede ordenar por la columna Estado para ver los eventos por gravedad. Si está buscando un evento específico o un tipo de evento específico, puede utilizar el filtro y los mecanismos de búsqueda para afinar la lista de eventos que aparecen en la lista.
@@ -37,6 +39,7 @@ La columna Tipo de evento enumera el origen del evento. Puede seleccionar un eve
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Gestión de eventos*.

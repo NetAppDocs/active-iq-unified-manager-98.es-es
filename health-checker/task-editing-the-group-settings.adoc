@@ -15,18 +15,21 @@ Puede editar el nombre y la descripción de un grupo creado en Unified Manager.
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Cuando edite un grupo para actualizar el nombre, debe especificar un nombre único; no puede utilizar un nombre de grupo existente.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *grupos*.

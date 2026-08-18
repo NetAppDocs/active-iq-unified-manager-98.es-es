@@ -15,6 +15,7 @@ El selector de intervalo de tiempo de la página Performance Explorer permite es
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Afinar el intervalo de tiempo proporciona un método eficiente para mostrar solo los datos de rendimiento que le interesan. Puede seleccionar un intervalo de tiempo predefinido o especificar un intervalo de tiempo personalizado. El intervalo de tiempo predeterminado es las 72 horas anteriores.

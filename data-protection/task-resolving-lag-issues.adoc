@@ -15,18 +15,21 @@ Este flujo de trabajo proporciona un ejemplo de cómo puede resolver un problema
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 En la página Dashboard, se puede ver el área Unresolved Incidents and Risks y se muestra un error de desfase de SnapMirror en el panel Protection Risks.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel *Protection* de la página *Dashboard*, localice el error de retraso de la relación de SnapMirror y haga clic en él.

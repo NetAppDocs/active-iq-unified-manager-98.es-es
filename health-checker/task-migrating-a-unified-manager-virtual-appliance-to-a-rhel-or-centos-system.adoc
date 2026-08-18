@@ -15,6 +15,7 @@ Puede restaurar un backup de volcado de base de datos de MySQL de Unified Manage
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * En el dispositivo virtual:
@@ -35,12 +36,14 @@ Puede restaurar un backup de volcado de base de datos de MySQL de Unified Manage
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Estos pasos describen cómo crear un archivo de copia de seguridad en el dispositivo virtual, copiar los archivos de copia de seguridad en el sistema Red Hat Enterprise Linux o CentOS y, a continuación, restaurar la copia de seguridad de la base de datos en el nuevo sistema.
 
 
 
+[[steps]]
 == Pasos
 
 . En el dispositivo virtual, haga clic en *Administración* > *copia de seguridad de la base de datos*.
@@ -68,6 +71,7 @@ Asegúrese de haber copiado el `.7z` copia de seguridad del archivo y todo el `.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Debe realizar las siguientes tareas:

@@ -15,6 +15,7 @@ Unified Manager genera eventos de advertencia sobreutilizados de los recursos de
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -23,6 +24,7 @@ Unified Manager genera eventos de advertencia sobreutilizados de los recursos de
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Unified Manager genera eventos de advertencia para las infracciones de políticas de recursos de nodos sobreutilizadas buscando nodos que utilicen más del 100 % de su capacidad de rendimiento durante más de 30 minutos.
@@ -37,6 +39,7 @@ Puede usar System Manager o los comandos de la ONTAP para corregir este tipo de 
 
 
 
+[[steps]]
 == Pasos
 
 . Abra la página de detalles *Event* para ver información sobre el evento.

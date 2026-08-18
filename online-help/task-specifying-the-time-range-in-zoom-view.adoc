@@ -15,6 +15,7 @@ El control *intervalo de tiempo* de la ventana de vista de zoom de los gráficos
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede seleccionar un intervalo de tiempo entre una hora y 390 días. 13 meses equivale a 390 días porque cada mes se cuenta como 30 días. La especificación de un intervalo de fechas y horas proporciona más detalles y le permite ampliar determinados eventos de rendimiento o series de eventos. La especificación de un intervalo de tiempo también ayuda a solucionar problemas potenciales de rendimiento, ya que al especificar un intervalo de fecha y tiempo se muestran los datos que rodean el evento de rendimiento con más detalle. Utilice el control *intervalo de tiempo* para seleccionar intervalos de fecha y hora predefinidos o especifique su propio intervalo de fecha y hora personalizado de hasta 390 días. Los botones de los intervalos de tiempo predefinidos varían de *última hora* a *últimos 13 meses*.

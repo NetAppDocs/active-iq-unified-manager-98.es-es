@@ -15,6 +15,7 @@ Puede crear un informe para resaltar los agregados que estén un 80 % o más com
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para resaltar los agregados que estén un 80 % o más com
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Siga estos pasos para crear una vista personalizada que muestre agregados del 80 % o más completos y, a continuación, programe un informe para su generación.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *agregados*.
@@ -51,6 +54,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Basándose en los resultados mostrados en el informe, quizás desee mover algunos datos de ciertos agregados.

@@ -15,6 +15,7 @@ Se asigna una política de umbral de rendimiento definida por el usuario a un ob
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
@@ -23,6 +24,7 @@ Debe existir la política de umbral de rendimiento, o las políticas, que desea 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Solo se puede aplicar una política de rendimiento a la vez a un objeto o a un grupo de objetos.
@@ -36,6 +38,7 @@ Es posible asignar un máximo de tres políticas de umbral a cada objeto de alma
 
 
 
+[[steps]]
 == Pasos
 
 . En la página Performance Inventory de cualquier objeto de almacenamiento, seleccione el objeto o los objetos a los que desea asignar una política de umbral:
@@ -87,6 +90,7 @@ Un mensaje de éxito en la parte superior de la página confirma que la polític
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Si desea que las alertas se envíen por correo electrónico o como captura SNMP, para notificarle que se ha generado un evento de rendimiento en particular, debe configurar los ajustes de alerta en la página Alert Setup.

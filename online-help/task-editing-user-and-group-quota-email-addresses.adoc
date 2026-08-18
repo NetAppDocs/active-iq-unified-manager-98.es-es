@@ -15,6 +15,7 @@ Las direcciones de correo electrónico se pueden modificar según la cuota de us
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -23,12 +24,14 @@ Las direcciones de correo electrónico se pueden modificar según la cuota de us
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Si edita una dirección de correo electrónico, las reglas para generar las direcciones de correo electrónico de usuario y cuota de grupo ya no serán aplicables a la cuota. Para que las notificaciones se envíen a la dirección de correo electrónico generada por las reglas especificadas, deberá eliminar la dirección de correo electrónico y guardar el cambio.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *SVM*.

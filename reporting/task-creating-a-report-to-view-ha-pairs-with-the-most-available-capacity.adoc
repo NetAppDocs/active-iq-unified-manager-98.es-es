@@ -15,6 +15,7 @@ Puede crear un informe para encontrar los pares de alta disponibilidad con la ma
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para encontrar los pares de alta disponibilidad con la ma
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Utilice los siguientes pasos para crear una vista personalizada que muestre parejas de alta disponibilidad ordenadas por la capacidad más disponible para aprovisionar volúmenes y LUN nuevos y, a continuación, programar un informe para que se genere para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *clústeres*.
@@ -51,6 +54,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 En función de los resultados mostrados en el informe, tal vez le interese equilibrar los pares de alta disponibilidad en función de la capacidad de los agregados.

@@ -15,6 +15,7 @@ Para utilizar Unified Manager, primero es necesario configurar las opciones de c
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe haber realizado las siguientes operaciones:
@@ -25,6 +26,7 @@ Debe haber realizado las siguientes operaciones:
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La página Active IQ Unified Manager Getting Started aparece solo cuando se accede por primera vez a la interfaz de usuario web. La siguiente página procede de una instalación en VMware.
@@ -35,6 +37,7 @@ Si desea cambiar alguna de estas opciones más adelante, puede seleccionar su op
 
 
 
+[[steps]]
 == Pasos
 
 . En la página Active IQ Unified Manager Initial Setup, introduzca la dirección de correo electrónico de usuario de mantenimiento, el nombre de host del servidor SMTP y todas las opciones adicionales SMTP, y el servidor NTP (solo instalaciones VMware). A continuación, haga clic en *continuar*.
@@ -56,6 +59,7 @@ Este paso es opcional. Puede agregar clústeres más adelante en la interfaz de 
 
 
 
+[[results]]
 == Resultados
 
 Se cierra la página Getting Started y se muestra la página Unified Manager Dashboard.

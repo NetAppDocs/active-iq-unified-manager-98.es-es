@@ -15,6 +15,7 @@ Puede utilizar Unified Manager para analizar el clúster en una configuración d
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -24,6 +25,7 @@ Puede utilizar Unified Manager para analizar el clúster en una configuración d
 
 
 
+[[steps]]
 == Pasos
 
 . Abra la página *Detalles del evento* para ver información sobre el evento.

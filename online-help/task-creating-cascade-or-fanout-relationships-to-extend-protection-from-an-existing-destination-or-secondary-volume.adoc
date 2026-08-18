@@ -15,6 +15,7 @@ Puede ampliar la protección a partir de una relación existente creando fanout 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Puede ampliar la protección a partir de una relación existente creando fanout 
 
 
 
+[[steps]]
 == Pasos
 
 . Haga clic en *Protección* > *Relaciones de volumen*.

@@ -15,12 +15,14 @@ En algún momento, puede que desee cambiar el nombre de host del equipo Red Hat 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener acceso de usuario raíz al sistema Linux en el que está instalado Unified Manager.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede usar el nombre de host (o la dirección IP del host) para acceder a la interfaz de usuario web de Unified Manager. Si configuró una dirección IP estática para la red durante la implementación, debería haber designado un nombre para el host de red. Si configuró la red mediante DHCP, el nombre de host debe tomarse del servidor DNS.
@@ -33,6 +35,7 @@ Si cambia el nombre de host en Unified Manager, debe actualizar manualmente el n
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión como usuario raíz en el sistema Unified Manager que desee modificar.

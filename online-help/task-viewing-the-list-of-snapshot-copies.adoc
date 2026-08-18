@@ -15,6 +15,7 @@ Puede ver la lista de copias Snapshot de un volumen seleccionado. Puede usar la 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -23,6 +24,7 @@ Puede ver la lista de copias Snapshot de un volumen seleccionado. Puede usar la 
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.

@@ -15,6 +15,7 @@ Puede usar la página de detalles Volume / Health para crear una relación de Sn
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Puede usar la página de detalles Volume / Health para crear una relación de Sn
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 El menú *Protect* no aparece en los siguientes casos:
@@ -35,6 +37,7 @@ Se pueden ejecutar hasta 10 tareas de protección simultáneamente sin que el re
 
 
 
+[[steps]]
 == Pasos
 
 . En la pestaña *Protección* de la página de detalles *volumen / Salud*, haga clic con el botón derecho del ratón en la vista de topología el nombre de un volumen que desea proteger.
@@ -62,6 +65,7 @@ La nueva relación se muestra en la vista de topología de la página de detalle
 
 
 
+[[results]]
 == Resultados
 
 En función de la SVM de destino especificada durante la configuración o de las opciones habilitadas en su configuración avanzada, la relación de SnapMirror resultante puede ser una de varias variaciones posibles:

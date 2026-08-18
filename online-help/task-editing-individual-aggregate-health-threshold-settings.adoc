@@ -15,12 +15,14 @@ Puede editar la configuración del umbral de estado para la capacidad del agrega
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Basándose en los cambios de los valores de umbral, los eventos se generan o se vuelven obsoletos en el siguiente ciclo de supervisión.
@@ -29,6 +31,7 @@ Cuando se habilita la opción Autofila en los volúmenes que residen en el agreg
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *agregados*.

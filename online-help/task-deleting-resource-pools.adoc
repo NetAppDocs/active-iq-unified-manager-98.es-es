@@ -15,18 +15,21 @@ Es posible eliminar pools de recursos cuando ya no son necesarios. Por ejemplo, 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 El botón *Eliminar* sólo está habilitado cuando se selecciona al menos un conjunto de recursos.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Protección* > *agrupaciones de recursos*.

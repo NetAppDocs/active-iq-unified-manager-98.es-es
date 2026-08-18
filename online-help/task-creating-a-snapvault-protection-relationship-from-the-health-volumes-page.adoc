@@ -15,6 +15,7 @@ Puede usar la vista Estado: Todos los volúmenes para crear relaciones de SnapVa
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Puede usar la vista Estado: Todos los volúmenes para crear relaciones de SnapVa
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 El menú *Protect* no aparece en los siguientes casos:
@@ -33,6 +35,7 @@ El menú *Protect* no aparece en los siguientes casos:
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.

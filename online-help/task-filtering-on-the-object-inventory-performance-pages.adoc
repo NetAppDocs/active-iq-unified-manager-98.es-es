@@ -15,6 +15,7 @@ Puede filtrar datos en las páginas rendimiento de inventario de objetos para lo
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede utilizar el panel filtrado para personalizar la vista de cuadrícula en función de sus preferencias. Las opciones de filtro disponibles se basan en el tipo de objeto que se está viendo en la cuadrícula. Si se aplican filtros actualmente, el número de filtros aplicados se muestra a la derecha del botón filtro.
@@ -61,6 +62,7 @@ Puede agregar filtros mediante el panel filtrado.
 
 
 
+[[filtering-example]]
 == Ejemplo de filtrado
 
 La ilustración muestra el panel filtrado con tres filtros. El botón *+Add Filter* aparece cuando tiene menos de cuatro filtros como máximo.

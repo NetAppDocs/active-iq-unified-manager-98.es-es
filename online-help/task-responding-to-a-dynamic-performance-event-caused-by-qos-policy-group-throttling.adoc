@@ -15,6 +15,7 @@ Puede utilizar Unified Manager para investigar un evento de rendimiento provocad
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -23,6 +24,7 @@ Puede utilizar Unified Manager para investigar un evento de rendimiento provocad
 
 
 
+[[steps]]
 == Pasos
 
 . Abra la página *Detalles del evento* para ver información sobre el evento.

@@ -15,6 +15,7 @@ Después de recibir un evento de error «'espacio de volumen completo'», revise
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Un usuario con cualquier rol puede realizar todas las tareas en este flujo de tr
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 En este ejemplo, ha visto un evento de error de espacio de volumen completo en la página del inventario de Unified Manager Event Management y ha hecho clic en el nombre del evento.
@@ -38,6 +40,7 @@ Si bien todas estas acciones deben realizarse desde ONTAP System Manager o desde
 
 
 
+[[steps]]
 == Pasos
 
 . En la página de detalles *evento*, haga clic en el nombre del volumen en el campo origen para ver detalles sobre el volumen afectado.

@@ -15,6 +15,7 @@ Puede añadir servidores de autenticación y habilitar la autenticación remota 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe estar disponible la siguiente información:
@@ -29,12 +30,14 @@ Puede añadir servidores de autenticación y habilitar la autenticación remota 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Si el servidor de autenticación que va a añadir forma parte de un par de alta disponibilidad (ha) (con la misma base de datos), también puede añadir el servidor de autenticación asociado. Esto permite que el servidor de administración se comunique con el asociado cuando no se puede acceder a uno de los servidores de autenticación.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *autenticación remota*.

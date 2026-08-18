@@ -15,18 +15,21 @@ Puede usar la página Cluster Setup para ver el inventario de clústeres. Es pos
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La lista de clústeres se ordena según la columna Collection state Severity Level. Puede hacer clic en un encabezado de columna para ordenar los clústeres por columnas diferentes.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Storage Management* > *Cluster Setup*.

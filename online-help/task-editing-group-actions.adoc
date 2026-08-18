@@ -15,12 +15,14 @@ Puede editar los parámetros de acción del grupo que configuró en Unified Mana
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *grupos*.

@@ -19,6 +19,7 @@ En la parte inferior de la página de gráfico se muestra información sobre la 
 
 
 
+[[utilization-total-counter-chart]]
 == Gráfico de contadores de utilización - total
 
 Muestra el porcentaje medio del recurso seleccionado que se está utilizando. Para los nodos, esto indica la utilización de los recursos de los nodos (CPU y RAM), para los agregados indica el uso de los discos en el agregado; en el caso de los puertos, indica el uso de ancho de banda del puerto.
@@ -27,6 +28,7 @@ Esta opción de gráfico se aplica cuando el objeto seleccionado es un nodo, agr
 
 
 
+[[zoom-view-button]]
 == *Botón Zoom View*
 
 Muestra una vista ampliada de los datos del gráfico de contadores.

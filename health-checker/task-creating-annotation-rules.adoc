@@ -15,18 +15,21 @@ Puede crear reglas de anotación que Unified Manager utilice para anotar dinámi
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Los objetos de almacenamiento que se supervisan actualmente se anotan tan pronto como se crea la regla de anotación. Los objetos nuevos se anotan sólo una vez completado el ciclo de supervisión.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *Anotaciones*.
@@ -66,6 +69,7 @@ Un grupo de condiciones
 
 
 
+[[example-of-creating-an-annotation-rule]]
 == Ejemplo de creación de una regla de anotación
 
 Realice los siguientes pasos en el cuadro de diálogo Agregar regla de anotación para crear una regla de anotación, incluida la configuración de una condición y la adición de un grupo de condiciones:

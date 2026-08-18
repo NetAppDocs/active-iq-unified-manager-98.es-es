@@ -15,18 +15,21 @@ La configuración del umbral se puede editar para las políticas de umbral de re
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 No es posible cambiar el nombre de la política ni el tipo de objeto de almacenamiento que se supervisa para las políticas de umbral existentes.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, seleccione *umbrales de evento* > *rendimiento*.
@@ -45,12 +48,14 @@ El resultado es la página Performance Thresholds.
 
 
 
+[[results]]
 == Resultados
 
 Después de guardar, los cambios se actualizan inmediatamente en todos los objetos de almacenamiento que usan la política.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 En función del tipo de cambios realizados en la directiva, es posible que desee revisar la configuración de alerta configurada para los objetos que utilizan la directiva en la página Configuración de alertas.

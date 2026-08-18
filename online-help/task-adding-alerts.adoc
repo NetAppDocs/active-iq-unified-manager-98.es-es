@@ -15,6 +15,7 @@ Puede configurar alertas para que le notifiquen un evento determinado. Es posibl
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe haber configurado los ajustes de notificación, como la dirección de correo electrónico de usuario, el servidor SMTP y el host de captura SNMP, con el fin de permitir que el servidor Active IQ Unified Manager utilice estos ajustes para enviar notificaciones a los usuarios cuando se genera un evento.
@@ -25,12 +26,14 @@ Puede configurar alertas para que le notifiquen un evento determinado. Es posibl
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede crear una alerta directamente desde la página de detalles Event después de recibir un evento además de crear una alerta desde la página Alert Setup, tal y como se describe aquí.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *Configuración de alertas*.
@@ -65,6 +68,7 @@ También puede optar por notificar a los usuarios a través de las capturas SNMP
 
 
 
+[[example-of-adding-an-alert]]
 == Ejemplo de añadir una alerta
 
 Este ejemplo muestra cómo crear una alerta que cumpla con los siguientes requisitos:

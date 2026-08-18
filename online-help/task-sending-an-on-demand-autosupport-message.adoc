@@ -15,12 +15,14 @@ Es posible enviar información del sistema Unified Manager al soporte técnico p
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe iniciar sesión como el usuario de mantenimiento.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *AutoSupport*.

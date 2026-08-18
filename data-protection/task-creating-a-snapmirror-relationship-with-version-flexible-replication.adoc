@@ -15,6 +15,7 @@ Puede crear una relación de SnapMirror con una replicación de versión flexibl
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -25,12 +26,14 @@ Puede crear una relación de SnapMirror con una replicación de versión flexibl
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 SnapMirror con la replicación flexible de versiones le permite implementar la protección de SnapMirror incluso en entornos de almacenamiento heterogéneos en los que no todo el almacenamiento se ejecute en una versión de ONTAP; sin embargo, las operaciones de mirroring realizadas en SnapMirror con la replicación flexible de versión no se ejecutan con la misma rapidez que con SnapMirror de replicación tradicional por bloques.
 
 
 
+[[steps]]
 == Pasos
 
 . Abra el cuadro de diálogo *Configurar protección* para el volumen que desea proteger.

@@ -15,6 +15,7 @@ Puede crear un informe para buscar volúmenes con la política de exportación p
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para buscar volúmenes con la política de exportación p
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Use los siguientes pasos para crear una vista personalizada para los volúmenes que utilizan la política de exportación predeterminada y, a continuación, programar un informe que se generará para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *recursos compartidos NFS*.
@@ -49,6 +52,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Basándose en los resultados mostrados en el informe, se recomienda configurar una política de exportación personalizada.

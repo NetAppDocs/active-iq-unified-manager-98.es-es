@@ -15,6 +15,7 @@ Los puertos predeterminados que Unified Manager utiliza para los protocolos HTTP
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener un ID de usuario y una contraseña autorizados para iniciar sesión en la consola de mantenimiento del servidor de Unified Manager.
@@ -26,12 +27,14 @@ Hay algunos puertos que se consideran no seguros cuando se utilizan los navegado
 ====
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La instancia de Unified Manager se reinicia automáticamente después de cambiar el puerto, por lo que debe asegurarse de que es bueno momento para dejar el sistema inactivo durante un breve período de tiempo.
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión con SSH como usuario de mantenimiento en el host de Unified Manager.
@@ -53,6 +56,7 @@ Se le pregunta si desea cambiar los puertos y reiniciar Unified Manager ahora.
 
 
 
+[[results]]
 == Resultados
 
 Después de este cambio, los usuarios deben incluir el nuevo número de puerto en la URL para acceder a la interfaz de usuario web de Unified Manager, por ejemplo: +https://host.company.com:1234+, +https://12.13.14.15:1122+ o +https://[2001:db8:0:1]:2123+.

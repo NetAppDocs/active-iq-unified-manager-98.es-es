@@ -15,18 +15,21 @@ Si es necesario, puede ver los eventos generados para todos los objetos de almac
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe haber al menos una ventana de mantenimiento completada antes de que haya algún evento disponible.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Los eventos que se produjeron durante una ventana de mantenimiento no aparecen de forma predeterminada en la página del inventario Event Management.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación de la izquierda, haga clic en *Eventos*.

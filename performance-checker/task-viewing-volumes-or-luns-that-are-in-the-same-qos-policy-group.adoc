@@ -15,6 +15,7 @@ Puede mostrar una lista de los volúmenes y LUN que se hayan asignado al mismo g
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 En el caso de los grupos de políticas de calidad de servicio tradicionales «que son » entre varios volúmenes, puede resultar útil ver si determinados volúmenes están utilizando en exceso el rendimiento definido para el grupo de políticas. También puede ser útil para decidir si puede añadir otros volúmenes al grupo de políticas sin un impacto negativo sobre los otros volúmenes.
@@ -23,6 +24,7 @@ En el caso de políticas de calidad de servicio adaptativas y de políticas de n
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *grupos de políticas QoS*.

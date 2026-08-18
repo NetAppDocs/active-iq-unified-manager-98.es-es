@@ -15,12 +15,14 @@ Puede descargar una solicitud de certificación para el certificado de seguridad
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *Certificado HTTPS*.
@@ -30,6 +32,7 @@ Debe tener la función Administrador de aplicaciones.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Puede proporcionar el archivo a una entidad de certificación para firmar e instalar el certificado firmado.

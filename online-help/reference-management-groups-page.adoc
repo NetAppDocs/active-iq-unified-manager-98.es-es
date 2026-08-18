@@ -17,12 +17,14 @@ La página grupos incluye fichas que permiten agregar, eliminar o editar un grup
 
 
 
+[[groups-tab]]
 == Grupos
 
 La ficha grupos muestra el nombre y la descripción de los grupos creados. Puede realizar tareas como agregar, editar o eliminar un grupo. En la pestaña también se muestra la cantidad de reglas de grupo y acciones de grupo asociadas con un grupo, la cantidad de clústeres, las SVM y los volúmenes en el grupo.
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Agregar*
@@ -44,6 +46,7 @@ Elimina el grupo seleccionado.
 
 
 
+[[list-view]]
 == Vista de lista
 
 La vista de lista muestra, en formato de tabla, los grupos creados en Unified Manager. Puede utilizar los filtros de columnas para personalizar los datos que se muestran. De forma predeterminada, la lista se ordena por nombre de grupo.
@@ -80,12 +83,14 @@ Muestra el número de volúmenes incluidos en el grupo.
 
 
 
+[[group-rules-tab]]
 == Pestaña Reglas de grupo
 
 La ficha Reglas de grupo muestra las reglas de grupo creadas para que los grupos contengan objetos de almacenamiento. Puede realizar tareas como agregar, editar o eliminar una regla de grupo. La ficha también muestra el nombre del grupo para el que se crea la regla de grupo y el objeto de almacenamiento para el que se aplica la regla. También puede ver el número de objetos de almacenamiento que cumplen la regla de grupo.
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Agregar*
@@ -104,6 +109,7 @@ Elimina la regla de grupo seleccionada.
 
 
 
+[[list-view]]
 == Vista de lista
 
 La vista de lista muestra, en una tabla de resultados, las reglas de grupo que se crearon para un objeto de almacenamiento específico (clústeres, volúmenes o SVM) y el número de objetos de almacenamiento que satisfacen la regla de grupo definida.
@@ -128,12 +134,14 @@ Muestra el recuento de los objetos de almacenamiento incluidos en el grupo segú
 
 
 
+[[group-actions-tab]]
 == Pestaña Group Actions
 
 La ficha acciones de grupo muestra el nombre y el tipo de acciones de grupo definidas para los grupos. Puede realizar tareas como agregar, editar, eliminar o reordenar las acciones del grupo. La ficha también muestra el nombre del grupo en el que se aplica la acción de grupo.
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Agregar*
@@ -156,6 +164,7 @@ Muestra el cuadro de diálogo Reordenar acciones de grupo para reorganizar el or
 
 
 
+[[list-view]]
 == Vista de lista
 
 La vista de lista muestra, en formato de tabla, las acciones de grupo creadas para los grupos en el servidor de Unified Manager. Puede utilizar los filtros de columnas para personalizar los datos que se muestran.

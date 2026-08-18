@@ -15,6 +15,7 @@ Puede crear un informe para encontrar los clústeres con la capacidad LUN más s
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para encontrar los clústeres con la capacidad LUN más s
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Utilice los siguientes pasos para crear una vista personalizada que muestra los clústeres con la capacidad de LUN más sin asignar y, a continuación, programe un informe que se genere para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *clústeres*.
@@ -51,6 +54,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Según los resultados que se muestran en el informe, podría utilizar la capacidad LUN sin asignar del clúster.

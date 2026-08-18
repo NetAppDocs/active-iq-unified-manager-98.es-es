@@ -15,6 +15,7 @@ Puede habilitar la autenticación remota para que el servidor de Unified Manager
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
@@ -26,6 +27,7 @@ El servidor de Unified Manager debe estar conectado directamente con el servidor
 ====
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede habilitar la autenticación remota mediante Open LDAP o Active Directory. Si la autenticación remota está deshabilitada, los usuarios remotos no pueden acceder a Unified Manager.
@@ -39,6 +41,7 @@ El certificado que se utiliza para autenticar usuarios debe cumplir el formato X
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *autenticación remota*.

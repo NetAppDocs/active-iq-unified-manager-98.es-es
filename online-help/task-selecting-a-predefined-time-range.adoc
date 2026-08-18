@@ -15,6 +15,7 @@ Seleccionar un intervalo de tiempo predefinido es una forma rápida y eficiente 
 
 
 
+[[steps]]
 == Pasos
 
 . En la parte superior derecha de la página *Performance Explorer*, haga clic en *intervalo de tiempo*.

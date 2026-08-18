@@ -15,18 +15,21 @@ Después de haber tomado medidas para corregir un trabajo de protección fallido
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Solo se puede volver a intentar un trabajo fallido a la vez. Al seleccionar más de un trabajo, se desactiva el botón *Reintentar*. Solo se pueden volver a intentar los trabajos del tipo Configuración de protección y operación de relación de protección.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Protección* > *trabajos*.

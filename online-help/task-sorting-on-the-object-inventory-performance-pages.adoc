@@ -15,12 +15,14 @@ Puede ordenar todos los datos de las páginas rendimiento de inventario de objet
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La columna seleccionada para ordenar se indica mediante un nombre de encabezado de columna resaltado y un icono de flecha que indica la dirección de ordenación a la derecha del nombre. Una flecha hacia arriba indica el orden ascendente; una flecha hacia abajo indica el orden descendente. El orden predeterminado es por *Estado* (criticidad de evento) en orden descendente, con los eventos de rendimiento más críticos listados primero.
 
 
 
+[[steps]]
 == Pasos
 
 . Puede hacer clic en el nombre de una columna para alternar el orden de clasificación de la columna en orden ascendente o descendente.

@@ -15,6 +15,7 @@ Puede usar Unified Manager para ayudar a identificar un agregado en un nodo dife
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -25,6 +26,7 @@ Puede usar Unified Manager para ayudar a identificar un agregado en un nodo dife
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Este procedimiento le ayuda a identificar los siguientes recursos para poder mover cargas de trabajo de alto rendimiento a un nodo más bajo utilizado:
@@ -36,6 +38,7 @@ Este procedimiento le ayuda a identificar los siguientes recursos para poder mov
 
 
 
+[[steps]]
 == Pasos
 
 . Identifique un nodo del clúster que tenga la mayor capacidad de rendimiento libre:
@@ -94,6 +97,7 @@ Puede llevar a cabo la operación de transferencia con System Manager de ONTAP, 
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Tras unos días, puede comprobar si está recibiendo el mismo tipo de eventos de este nodo o agregado.

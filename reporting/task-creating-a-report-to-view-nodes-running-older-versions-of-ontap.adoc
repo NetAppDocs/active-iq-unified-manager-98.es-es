@@ -15,6 +15,7 @@ Puede crear un informe para mostrar la versión del software ONTAP que está ins
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para mostrar la versión del software ONTAP que está ins
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Use los siguientes pasos para crear una vista personalizada que muestre los nodos que ejecutan versiones anteriores de ONTAP y, a continuación, programar un informe para que se genere en esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *nodos*.
@@ -45,6 +48,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Según los resultados que se muestran en el informe, quizás desee actualizar nodos que ejecutan versiones anteriores de ONTAP.

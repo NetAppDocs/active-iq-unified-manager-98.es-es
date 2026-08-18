@@ -15,6 +15,7 @@ Puede calcular la cantidad de espacio en disco que se puede recuperar si se elim
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -24,6 +25,7 @@ Puede calcular la cantidad de espacio en disco que se puede recuperar si se elim
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.

@@ -15,6 +15,7 @@ Puede validar la configuración de los servidores de autenticación para garanti
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Usted debe haber habilitado la autenticación remota y configurado el servicio de autenticación para que el servidor de Unified Manager pueda autenticar el usuario remoto o el grupo remoto.
@@ -24,12 +25,14 @@ Puede validar la configuración de los servidores de autenticación para garanti
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Si el servicio de autenticación está establecido en Active Directory y si está validando la autenticación de usuarios remotos que pertenecen al grupo principal del servidor de autenticación, la información sobre el grupo principal no se muestra en los resultados de la autenticación.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *autenticación remota*.

@@ -15,6 +15,7 @@ Se puede crear un informe que muestre las tendencias de transferencia de volumen
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Se puede crear un informe que muestre las tendencias de transferencia de volumen
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Use los siguientes pasos para crear una vista personalizada de los volúmenes en intervalos de tiempo específicos y luego programar la generación de un informe para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.
@@ -50,6 +53,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Basándose en los resultados mostrados en el informe, puede investigar los intervalos de tiempo de transferencia.

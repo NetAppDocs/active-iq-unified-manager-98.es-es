@@ -15,18 +15,21 @@ Para todos los eventos que haya configurado para enviar alertas, se enviará un 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 De forma predeterminada, las alertas no se envían para los eventos a medida que se mueven a los estados resueltos y Obsoleto.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *Configuración de alertas*.

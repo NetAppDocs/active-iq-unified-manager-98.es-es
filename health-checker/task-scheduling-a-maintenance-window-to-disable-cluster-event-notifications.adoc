@@ -15,12 +15,14 @@ Si tiene un tiempo de inactividad planificado para un clúster, por ejemplo, par
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Durante una ventana de mantenimiento, aún se generan los eventos relacionados con todos los objetos de ese clúster, pero no aparecen en la página de eventos y no se envían alertas ni otros tipos de notificaciones para estos eventos.
@@ -29,6 +31,7 @@ El momento que introduzca para la ventana de mantenimiento se basa en la hora en
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Storage Management* > *Cluster Setup*.
@@ -44,6 +47,7 @@ El mensaje "programado" aparece junto al botón deslizante.
 
 
 
+[[results]]
 == Resultados
 
 Cuando se llega a la hora de inicio, el clúster pasa al modo de mantenimiento y se genera un evento "'ventana de mantenimiento de objetos iniciada'".

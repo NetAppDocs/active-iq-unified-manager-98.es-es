@@ -35,6 +35,7 @@ Muestra la lista de condiciones para un grupo seleccionado. Puede editar las con
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Guardar*

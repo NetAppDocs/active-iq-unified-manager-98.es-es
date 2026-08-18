@@ -15,18 +15,21 @@ Puede eliminar una regla de grupo de Active IQ Unified Manager cuando la regla d
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Cuando se elimina una regla de grupo, los objetos de almacenamiento asociados se eliminarán del grupo.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *grupos*.

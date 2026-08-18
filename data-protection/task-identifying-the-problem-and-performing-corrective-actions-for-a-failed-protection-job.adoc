@@ -15,12 +15,14 @@ Revisa el mensaje de error de error de trabajo en el campo CAUSE de la página d
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 El mensaje de error proporcionado en el campo causa de la página de detalles Event contiene el siguiente texto sobre el trabajo con errores:
@@ -48,6 +50,7 @@ En este caso, puede identificar la causa y las posibles acciones correctivas del
 
 
 
+[[steps]]
 == Pasos
 
 . Revisa el mensaje de error y determina que ha producido un error en un trabajo de copia Snapshot en el volumen de origen, lo que indica que probablemente haya un problema con el volumen de origen.

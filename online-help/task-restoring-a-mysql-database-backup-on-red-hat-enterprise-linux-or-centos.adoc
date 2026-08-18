@@ -15,6 +15,7 @@ Si se produce la pérdida de datos o daños en los datos, es posible restaurar U
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener las credenciales de usuario raíz del host Linux en el que está instalado Unified Manager.
@@ -28,6 +29,7 @@ Se recomienda copiar el archivo de copia de seguridad en el directorio predeterm
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La función de restauración es específica de la plataforma y de cada versión. Puede restaurar un backup de Unified Manager solo en la misma versión de Unified Manager. Puede restaurar un archivo de copia de seguridad de Linux o un archivo de copia de seguridad de dispositivo virtual en un sistema Red Hat Enterprise Linux o CentOS.
@@ -39,6 +41,7 @@ Si el nombre de la carpeta de copia de seguridad contiene un espacio, debe inclu
 ====
 
 
+[[steps]]
 == Pasos
 
 . Si va a realizar una restauración en un servidor nuevo, después de instalar Unified Manager no inicia la interfaz de usuario ni configura ninguna configuración de clústeres, usuarios o autenticación cuando se haya completado la instalación. El archivo de backup rellena esta información durante el proceso de restauración.
@@ -60,6 +63,7 @@ Una vez finalizada la operación de restauración, puede iniciar sesión en Unif
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Después de restaurar el backup, si el servidor OnCommand Workflow Automation no funciona, realice los siguientes pasos:

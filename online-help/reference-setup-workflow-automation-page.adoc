@@ -17,6 +17,7 @@ Debe tener el rol de administrador de aplicaciones o de administrador del almace
 
 
 
+[[unified-manager-database-user]]
 == Usuario de base de datos de Unified Manager
 
 Este área permite introducir las credenciales de un usuario de base de datos necesarias para emparejar Unified Manager con Workflow Automation:
@@ -33,6 +34,7 @@ Permite especificar una contraseña para el nombre de usuario especificado.
 
 
 
+[[oncommand-workflow-automation-credentials]]
 == Credenciales de OnCommand Workflow Automation
 
 Esta área le permite introducir las credenciales de una cuenta de Workflow Automation necesarias para el emparejamiento con Unified Manager:
@@ -57,6 +59,7 @@ Permite especificar una contraseña para el nombre de usuario especificado.
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Los botones de comando permiten eliminar, guardar o cancelar las opciones de configuración:

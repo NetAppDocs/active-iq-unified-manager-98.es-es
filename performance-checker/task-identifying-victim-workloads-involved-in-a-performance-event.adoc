@@ -15,6 +15,7 @@ En Unified Manager, es posible identificar qué cargas de trabajo de volumen tie
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -23,12 +24,14 @@ En Unified Manager, es posible identificar qué cargas de trabajo de volumen tie
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La página de detalles Event muestra una lista de las cargas de trabajo definidas por el usuario y definidas por el sistema, clasificadas por la mayor desviación de la actividad o el uso del componente, o más afectadas por el evento. Los valores se basan en los picos identificados por Unified Manager cuando detectó y analizó por última vez el evento.
 
 
 
+[[steps]]
 == Pasos
 
 . Abra la página *Detalles del evento* para ver información sobre el evento.

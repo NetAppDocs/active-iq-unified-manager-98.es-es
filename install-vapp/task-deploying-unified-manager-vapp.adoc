@@ -15,6 +15,7 @@ La puesta en marcha de Unified Manager incluye la descarga de software, la puest
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe verificar y completar los requisitos del sistema para la puesta en marcha.
@@ -34,6 +35,7 @@ xref:concept-requirements-for-installing-unified-manager.adoc[Requisitos del sis
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede poner en marcha Unified Manager como dispositivo virtual en un servidor VMware ESXi.
@@ -47,6 +49,7 @@ A partir de Unified Manager 9.8, VMware Tools se ha sustituido por Open VM Tools
 ====
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Una vez finalizada la puesta en marcha y la configuración inicial, puede añadir clústeres o configurar ajustes de red adicionales en la consola de mantenimiento y, a continuación, acceder a la interfaz de usuario web.

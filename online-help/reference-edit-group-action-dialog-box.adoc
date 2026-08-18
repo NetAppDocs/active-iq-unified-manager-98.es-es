@@ -35,6 +35,7 @@ Muestra el tipo de acción de grupo. No puede cambiar el tipo de acción. Sin em
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Guardar*

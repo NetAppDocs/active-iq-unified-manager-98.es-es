@@ -15,12 +15,14 @@ Es posible restaurar archivos, directorios o un volumen entero sobrescritos o el
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 No puede restaurar flujos de archivos NTFS.
@@ -33,6 +35,7 @@ La opción de restauración no está disponible si:
 
 
 
+[[steps]]
 == Pasos
 
 . En la vista *Estado: Todos los volúmenes*, seleccione el volumen desde el que desea restaurar los datos.

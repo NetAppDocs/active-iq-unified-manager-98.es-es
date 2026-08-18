@@ -15,6 +15,7 @@ Puede crear un informe para analizar la capacidad de almacenamiento y la utiliza
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para analizar la capacidad de almacenamiento y la utiliza
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Use los siguientes pasos para crear una vista personalizada que muestra la capacidad según el modelo de clúster y, a continuación, programar un informe que se generará para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *clústeres*.
@@ -46,6 +49,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Según los resultados mostrados en el informe, quizás desee añadir más capacidad a determinados clústeres o actualizar modelos de clústeres anteriores.

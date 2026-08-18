@@ -15,6 +15,7 @@ Puede ver la configuración de la política de calidad de servicio (QoS) definid
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Los valores de rendimiento de QoS «minum» y «m ximum» de IOPS y MB/s se muestran en los gráficos de contadores solo si se han configurado en ONTAP. Los ajustes mínimos de rendimiento están disponibles solo en sistemas que ejecuten el software ONTAP 9.2 o posterior, solo en sistemas AFF. Estos ajustes solo se pueden establecer para IOPS en este momento.
@@ -25,6 +26,7 @@ Unified Manager genera eventos de advertencia para incumplimientos de políticas
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Explorador de rendimiento* del volumen o LUN seleccionados, realice las siguientes acciones para ver los ajustes de techo y piso de QoS:
@@ -75,6 +77,7 @@ La línea horizontal discontinua indica el valor de rendimiento máximo o mínim
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Si observa que ciertos volúmenes o LUN tienen un número muy elevado de IOPS o MB/s y están destacando los recursos del sistema, puede usar System Manager o la interfaz de línea de comandos ONTAP para ajustar la configuración de calidad de servicio de forma que estas cargas de trabajo no afecten al rendimiento de otras cargas de trabajo.

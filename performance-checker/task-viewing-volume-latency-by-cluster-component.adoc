@@ -15,6 +15,7 @@ Puede ver información detallada sobre la latencia de un volumen mediante la pá
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Además, el gráfico latencia - componentes del clúster muestra una comparación detallada de la latencia de cada componente del clúster para ayudar a determinar cómo contribuye cada componente a la latencia total del volumen. Se muestran los siguientes componentes del clúster:
@@ -34,6 +35,7 @@ Además, el gráfico latencia - componentes del clúster muestra una comparació
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Explorador de rendimiento de volumen* del volumen seleccionado, en el gráfico latencia, seleccione *componentes de clúster* en el menú desplegable.

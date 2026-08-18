@@ -23,6 +23,7 @@ Consulte xref:reference-volume-health-fields.adoc[Campos de estado del volumen] 
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Editar umbral*

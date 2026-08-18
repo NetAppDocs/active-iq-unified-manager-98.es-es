@@ -15,6 +15,7 @@ Puede crear un directorio inicial personalizado y definir su propia contraseña 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * El sistema debe cumplir los requisitos descritos en xref:concept-virtual-infrastructure-or-hardware-system-requirements.adoc[Requisitos del sistema de hardware].
@@ -23,6 +24,7 @@ Puede crear un directorio inicial personalizado y definir su propia contraseña 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La instalación predeterminada de Unified Manager realiza las siguientes tareas:
@@ -43,6 +45,7 @@ Las políticas de seguridad del entorno no deben restringir los privilegios sudo
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión como usuario root en el servidor.
@@ -56,6 +59,7 @@ El sistema le pide que introduzca una nueva cadena de contraseña para el usuari
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Después de instalar Unified Manager, debe especificar el shell de inicio de sesión de usuario umadmin.

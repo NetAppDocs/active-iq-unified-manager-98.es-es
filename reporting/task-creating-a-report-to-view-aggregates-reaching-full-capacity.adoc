@@ -15,6 +15,7 @@ Puede crear un informe para encontrar los agregados que están alcanzando toda s
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para encontrar los agregados que están alcanzando toda s
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Utilice los siguientes pasos para crear una vista personalizada donde se muestren los agregados que alcanzan su capacidad completa y, a continuación, programar un informe que se generará para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *agregados*.
@@ -50,6 +53,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 De acuerdo con los resultados que se muestran en el informe, quizás desee aumentar el almacenamiento de agregados que alcanzan su capacidad completa. Además, es posible que desee aumentar los días hasta que el umbral de capacidad completa supere los 7 días predeterminados para recibir eventos que proporcionen más tiempo para reaccionar ante el espacio que llega a reducir en los agregados.

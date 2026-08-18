@@ -15,6 +15,7 @@ Es posible crear un informe para encontrar volúmenes con una ruta de montaje in
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Es posible crear un informe para encontrar volúmenes con una ruta de montaje in
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Use los siguientes pasos para crear una vista personalizada para volúmenes que tienen una ruta de montaje inaccesible y luego programar un informe para generar ese informe.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *recursos compartidos NFS*.
@@ -48,6 +51,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Según los resultados que se muestran en el informe, es posible que desee corregir las rutas de montaje inaccesibles.

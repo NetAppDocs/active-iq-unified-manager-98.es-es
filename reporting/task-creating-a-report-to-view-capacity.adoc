@@ -15,6 +15,7 @@ Puede crear un informe para analizar la capacidad de un archivo de Excel utiliza
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para analizar la capacidad de un archivo de Excel utiliza
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Siga estos pasos para abrir una vista Estado: Todos los agregados, descargar la vista en Excel, crear un gráfico de capacidad disponible, cargar el archivo de Excel personalizado y programar el informe final.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *agregados*.
@@ -104,6 +107,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Basándose en los resultados mostrados en el informe, quizás desee investigar cómo utilizar de mejor forma la capacidad disponible en toda la red.

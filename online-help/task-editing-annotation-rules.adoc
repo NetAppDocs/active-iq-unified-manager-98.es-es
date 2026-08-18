@@ -15,18 +15,21 @@ Puede editar las reglas de anotación para modificar los grupos de condiciones y
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Las anotaciones se disocian de los objetos de almacenamiento al editar las reglas de anotación asociadas.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *Anotaciones*.

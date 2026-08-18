@@ -15,18 +15,21 @@ Es posible configurar alertas para eventos de rendimiento individuales, como cua
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 El siguiente ejemplo muestra cómo crear un evento para todos los eventos de latencia crítica, IOPS y Mbps. Puede utilizar esta misma metodología para seleccionar eventos de todos los contadores de rendimiento y de todos los eventos de advertencia.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *Configuración de alertas*.

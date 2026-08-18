@@ -15,6 +15,7 @@ En Unified Manager, es posible identificar qué cargas de trabajo tienen la mayo
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -23,12 +24,14 @@ En Unified Manager, es posible identificar qué cargas de trabajo tienen la mayo
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La página de detalles Event muestra una lista de las cargas de trabajo definidas por el usuario y definidas por el sistema con la clasificación del uso más alto del componente o más afectado por el evento. Los valores se basan en los picos identificados por Unified Manager cuando detectó y analizó por última vez el evento.
 
 
 
+[[steps]]
 == Pasos
 
 . Abra la página *Detalles del evento* para ver información sobre el evento.

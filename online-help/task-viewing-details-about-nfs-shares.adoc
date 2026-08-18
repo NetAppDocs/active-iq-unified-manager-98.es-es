@@ -15,6 +15,7 @@ Es posible ver detalles sobre todos los recursos compartidos de NFS, como su est
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * La licencia de NFS debe estar habilitada en el clúster.
@@ -24,6 +25,7 @@ Es posible ver detalles sobre todos los recursos compartidos de NFS, como su est
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación de la izquierda, siga los siguientes pasos dependiendo de si desea ver todos los recursos compartidos NFS o solo los recursos compartidos NFS de una SVM concreta.

@@ -15,6 +15,7 @@ Es posible modificar un recurso compartido de archivos NFS para admitir el proto
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 . Se debe haber creado un recurso compartido de archivos NFS con únicamente los detalles de la política de exportación. Para obtener información, consulte _Administrar recursos compartidos de archivos_ y _Modificar las cargas de trabajo de almacenamiento_.
@@ -23,12 +24,14 @@ Es posible modificar un recurso compartido de archivos NFS para admitir el proto
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Esto se aplica a un recurso compartido de archivos NFS creado añadiendo solo reglas de política de exportación y no parámetros ACL. El recurso compartido de archivos NFS se modifica para incluir los parámetros ACL.
 
 
 
+[[steps]]
 == Pasos
 
 . En el recurso compartido de archivos NFS, realice un `PATCH` Operación con los detalles de ACL para permitir el acceso CIFS.

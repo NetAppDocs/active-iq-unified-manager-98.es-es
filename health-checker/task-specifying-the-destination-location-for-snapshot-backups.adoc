@@ -15,6 +15,7 @@ Puede configurar la ubicación de destino para backups de Snapshot de Unified Ma
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener las credenciales de usuario raíz del host Linux en el que está instalado Unified Manager.
@@ -25,6 +26,7 @@ Puede configurar la ubicación de destino para backups de Snapshot de Unified Ma
 
 
 
+[[steps]]
 == Pasos
 
 . Mediante Secure Shell, conéctese a la dirección IP o al nombre de dominio completo del sistema Unified Manager.

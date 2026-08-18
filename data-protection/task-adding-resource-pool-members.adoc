@@ -15,18 +15,21 @@ Un pool de recursos consta de un número de agregados miembros. Puede añadir ag
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 No puede añadir más de 200 agregados a un pool de recursos a la vez. Los agregados que se muestran en el cuadro de diálogo agregados no pertenecen a ningún otro pool de recursos.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Protección* > *agrupaciones de recursos*.

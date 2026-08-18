@@ -19,6 +19,7 @@ Los eventos se generan cuando se incumple un umbral. Puede tomar acciones correc
 
 
 
+[[capacity-area]]
 == Área Capacity
 
 El área de capacidad permite establecer las siguientes condiciones de umbral de capacidad para qtrees.

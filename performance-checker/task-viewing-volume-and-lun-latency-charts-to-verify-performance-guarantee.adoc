@@ -15,12 +15,14 @@ Puede ver los volúmenes y LUN que ha suscrito al programa «'Garantía de rendi
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La garantía de rendimiento de latencia es un valor de milisegundos por operación que no se debe superar. Se basa en un promedio por hora, no en el período predeterminado de recopilación de rendimiento de cinco minutos.
 
 
 
+[[steps]]
 == Pasos
 
 . En la vista *rendimiento: Todos los volúmenes* o *rendimiento: Todas las LUN*, seleccione el volumen o LUN en el que esté interesado.

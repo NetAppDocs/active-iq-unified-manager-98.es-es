@@ -15,6 +15,7 @@ Los eventos de relaciones de SnapMirror y almacén le proporcionan información 
 
 
 
+[[impact-area-protection]]
 == Zona de impacto: Protección
 
 |===

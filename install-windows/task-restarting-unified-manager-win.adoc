@@ -15,12 +15,14 @@ Es posible que tenga que reiniciar Unified Manager después de realizar cambios 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener privilegios de administrador de Windows.
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión en Windows con la cuenta de administrador local predeterminada.

@@ -24,6 +24,7 @@ Los valores de umbral no son aplicables al agregado raíz del nodo.
 ====
 
 
+[[capacity-area]]
 == Área Capacity
 
 El área de capacidad permite establecer las siguientes condiciones de umbral de capacidad de agregado:
@@ -58,6 +59,7 @@ Especifica la cantidad de días que queda para que el agregado alcance la capaci
 
 
 
+[[growth-area]]
 == Área de crecimiento
 
 El área de crecimiento le permite establecer la siguiente condición de umbral para el crecimiento agregado:
@@ -83,6 +85,7 @@ Si modifica la sensibilidad de la tasa de crecimiento para los agregados en el n
 
 
 
+[[snapshot-copies-area]]
 == Área Snapshot copies
 
 El área Snapshot copies le permite establecer las siguientes condiciones de umbral de reserva de Snapshot:
@@ -98,6 +101,7 @@ También puede usar el control deslizante para configurar el valor del umbral.
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Los botones de comando permiten realizar las siguientes tareas para un agregado seleccionado:

@@ -15,6 +15,7 @@ Puede crear un informe para mostrar una lista de todas las SVM detenidas.
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para mostrar una lista de todas las SVM detenidas.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Use los siguientes pasos para crear una vista personalizada que muestre las máquinas virtuales de almacenamiento detenidas y luego programar un informe que se generará para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *Storage VMs*.
@@ -50,6 +53,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Según los resultados mostrados en el informe, quizás desee investigar por qué se ha detenido la SVM para que vea si debe reiniciar las SVM detenidas.

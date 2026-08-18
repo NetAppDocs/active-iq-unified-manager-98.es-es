@@ -15,6 +15,7 @@ Es posible crear volúmenes de recursos compartidos de archivos compatibles con 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * El equipo virtual de almacenamiento debe tener espacio para aprovisionar el volumen compartido de archivos.
@@ -24,6 +25,7 @@ Es posible crear volúmenes de recursos compartidos de archivos compatibles con 
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Provision Workload*, agregue el nombre de la carga de trabajo que desea crear y, a continuación, seleccione el clúster de la lista Available.

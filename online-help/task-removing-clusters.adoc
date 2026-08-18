@@ -15,12 +15,14 @@ Puede quitar un clúster de Unified Manager mediante la página Cluster Setup. P
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Esta tarea elimina el clúster seleccionado de Unified Manager. Después de eliminar un clúster, este ya no se supervisa. La instancia de Unified Manager registrada en el clúster eliminado también se elimina del clúster.
@@ -29,6 +31,7 @@ Al quitar un clúster, también se eliminan todos sus objetos de almacenamiento,
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Storage Management* > *Cluster Setup*.

@@ -17,6 +17,7 @@ El estado junto al nombre del clúster, por ejemplo (bueno), representa el estad
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Los botones de comando le permiten realizar las siguientes tareas para el clúster seleccionado:
@@ -46,6 +47,7 @@ Permite ir a la vista Estado: Todos los clústeres.
 
 
 
+[[health-tab]]
 == Estado
 
 Muestra información detallada sobre los problemas de disponibilidad de datos y capacidad de datos de diversos objetos del clúster, como nodos, SVM y agregados. Los problemas de disponibilidad están relacionados con la capacidad de servicio de datos de los objetos del clúster. Los problemas de capacidad están relacionados con la funcionalidad de almacenamiento de datos de los objetos del clúster.
@@ -70,6 +72,7 @@ Muestra gráficamente la cantidad total de objetos, incluidos los objetos que ti
 
 
 
+[[capacity-tab]]
 == Pestaña Capacity
 
 Muestra información detallada sobre la capacidad del clúster seleccionado.
@@ -209,6 +212,7 @@ Muestra la cantidad estimada de días que quedan antes de que el agregado alcanc
 
 
 
+[[configuration-tab]]
 == Pestaña Configuration
 
 Muestra detalles sobre el clúster seleccionado, como dirección IP, número de serie, contacto y ubicación:
@@ -366,6 +370,7 @@ Enumera los nombres de los niveles de cloud a los que está conectado el clúste
 
 
 
+[[metrocluster-connectivity-tab]]
 == Pestaña conectividad MetroCluster
 
 Muestra los problemas y el estado de conectividad de los componentes del clúster en la configuración de MetroCluster. Un clúster se muestra en un cuadro rojo cuando el partner de recuperación de desastres del clúster tiene problemas.
@@ -390,6 +395,7 @@ Si el estado del problema de conectividad entre componentes está determinado po
 
 
 
+[[metrocluster-replication-tab]]
 == Pestaña MetroCluster Replication
 
 Muestra el estado de los datos que se están replicando. Puede usar la pestaña replicación de MetroCluster para garantizar la protección de datos mediante el mirroring sincrónico de los datos con clústeres que ya tienen una relación entre iguales. Un clúster se muestra en un cuadro rojo cuando el partner de recuperación de desastres del clúster tiene problemas.
@@ -405,6 +411,7 @@ En la pestaña replicación de MetroCluster, el clúster local proporciona la re
 
 
 
+[[network-interfaces-tab]]
 == Pestaña Network interfaces
 
 Muestra detalles acerca de todas las LIF sin datos que se crean en el clúster seleccionado.
@@ -456,6 +463,7 @@ Muestra el nombre del grupo de conmutación por error.
 
 
 
+[[nodes-tab]]
 == Pestaña Nodes
 
 Muestra información sobre los nodos del clúster seleccionado. Puede ver información detallada acerca de las parejas de alta disponibilidad, las bandejas de discos y los puertos:
@@ -587,6 +595,7 @@ Es posible ver los eventos relacionados con el puerto en la lista Events. Tambi�
 
 
 
+[[disks-tab]]
 == Pestaña Disks
 
 Muestra detalles sobre los discos del clúster seleccionado. Es posible ver información relacionada con discos, como el número de discos usados, discos de repuesto, discos rotos y discos sin asignar. También es posible ver otros detalles, como el nombre del disco, el tipo de disco y el nodo de propietario del disco.
@@ -690,12 +699,14 @@ Muestra el ID de la bahía donde se encuentra el disco.
 
 
 
+[[related-annotations-pane]]
 == Panel Anotaciones relacionadas
 
 Permite ver los detalles de la anotación asociados con el clúster seleccionado. Los detalles incluyen el nombre de la anotación y los valores de anotación que se aplican al clúster. También puede eliminar anotaciones manuales del panel Anotaciones relacionadas.
 
 
 
+[[related-devices-pane]]
 == Panel Related Devices
 
 Permite ver los detalles del dispositivo asociados al clúster seleccionado.
@@ -726,12 +737,14 @@ Muestra la cantidad, la capacidad y el estado de los agregados que pertenecen al
 
 
 
+[[related-groups-pane]]
 == Panel Related Groups
 
 Le permite ver la lista de grupos que incluyen el clúster seleccionado.
 
 
 
+[[related-alerts-pane]]
 == Panel Related Alerts
 
 El panel Related Alerts permite ver la lista de alertas del clúster seleccionado. También es posible añadir una alerta si se hace clic en el enlace Add Alert o editar una alerta existente haciendo clic en el nombre de la alerta.

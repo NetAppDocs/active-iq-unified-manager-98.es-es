@@ -15,12 +15,14 @@ Al tratar los eventos, puede agregar información sobre cómo se trata el proble
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación de la izquierda, haga clic en *Eventos*.

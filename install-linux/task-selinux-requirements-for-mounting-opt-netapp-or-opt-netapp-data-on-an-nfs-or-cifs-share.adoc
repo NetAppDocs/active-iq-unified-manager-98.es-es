@@ -15,6 +15,7 @@ Si tiene pensado montar `/opt/netapp` o. `/opt/netapp/data` En un dispositivo NA
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Si está planeando el montaje `/opt/netapp` o. `/opt/netapp/data` Desde cualquier otro lugar que no sea el sistema de archivos raíz, y ha habilitado SELinux en su entorno, debe establecer el contexto correcto para los directorios montados. Siga estos dos pasos para configurar y confirmar el contexto de SELinux correcto.

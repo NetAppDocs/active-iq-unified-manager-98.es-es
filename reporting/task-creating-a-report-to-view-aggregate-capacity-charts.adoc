@@ -15,6 +15,7 @@ Puede crear un informe para analizar el total de almacenamiento y la capacidad c
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para analizar el total de almacenamiento y la capacidad c
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Siga estos pasos para abrir una vista Estado: Todos los agregados, descargar la vista en Excel, crear un gráfico de capacidad total y comprometida, cargar el archivo de Excel personalizado y programar el informe final.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *agregados*.
@@ -108,6 +111,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Según los resultados mostrados en el informe, quizás desee equilibrar la carga en los agregados.

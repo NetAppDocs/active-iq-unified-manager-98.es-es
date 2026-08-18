@@ -23,6 +23,7 @@ Puede establecer umbrales de estado del agregado para los siguientes fines: Capa
 
 
 
+[[capacity-area]]
 == Área Capacity
 
 El área de capacidad permite establecer las siguientes condiciones de umbral de capacidad del agregado. Tenga en cuenta que cuando se habilita la opción Autofila en los volúmenes que residen en el agregado, los umbrales de capacidad del agregado se consideran sin infracción en función del tamaño máximo del volumen establecido por el crecimiento automático, no según el tamaño del volumen original.
@@ -87,6 +88,7 @@ Especifica la cantidad de días que queda para que el agregado alcance la capaci
 
 
 
+[[growth-area]]
 == Área de crecimiento
 
 El área de crecimiento le permite establecer las siguientes condiciones de umbral para el crecimiento del agregado:
@@ -122,6 +124,7 @@ Si modifica la sensibilidad de la tasa de crecimiento para los agregados en el n
 
 
 
+[[snapshot-copies-area]]
 == Área Snapshot copies
 
 El área Snapshot copies le permite establecer las siguientes condiciones de umbral de reserva de Snapshot:

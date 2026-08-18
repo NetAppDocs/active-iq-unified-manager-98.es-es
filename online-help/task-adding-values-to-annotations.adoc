@@ -15,18 +15,21 @@ Puede agregar valores a anotaciones y, a continuación, asociar objetos de almac
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 No se pueden agregar valores a anotaciones predefinidas.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *Anotaciones*.

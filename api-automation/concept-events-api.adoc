@@ -15,6 +15,7 @@ La `events` y.. `system` API en la `management-server` Category permite recupera
 
 
 
+[[viewing-events]]
 == Ver eventos
 
 Mediante el uso de `/management-server/events` API, puede consultar los eventos en su centro de datos, incluidos los datos históricos. Utilice los filtros incorporados, como el nombre, el nivel de impacto, el área de impacto, la gravedad, estado, nombre de recurso y tipo de recurso, para ver eventos específicos. El tipo de recurso y los parámetros de área devuelven información sobre el objeto de almacenamiento en el que se produce el evento. El área de impacto devuelve la información sobre el problema sobre el que se genera el evento, como disponibilidad, capacidad, configuración, seguridad, protección y rendimiento.
@@ -48,6 +49,7 @@ Ejecute esta API si desea consultar un evento determinado. Introduzca la clave d
 |===
 
 
+[[viewing-system-details]]
 == Ver los detalles del sistema
 
 Mediante el uso de `/management-server/system` API, puede consultar los detalles específicos de cada instancia del entorno de Unified Manager. La API muestra información sobre el producto y los servicios, como la versión de Unified Manager instalada en el sistema, UUID, nombre del proveedor, SO del host y el nombre, Descripción y estado de los servicios que se ejecutan en la instancia de Unified Manager.

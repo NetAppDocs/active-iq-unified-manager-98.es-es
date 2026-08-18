@@ -261,6 +261,7 @@ Puede ver que el método POST de `/storage-provider/luns` Invoca internamente to
 
 
 
+[[troubleshooting-steps-for-failure-in-lun-creation-or-mapping]]
 == Solucionar los pasos para solucionar el error en la creación o asignación de LUN
 
 Al completar este flujo de trabajo, es posible que observe un error durante el proceso de creación de la LUN. Incluso si la LUN se crea correctamente, la asignación de LUN con el igroup puede generar un error debido a la falta de disponibilidad de un LIF DE SAN o un extremo de acceso en el nodo en el que crea la LUN. En caso de un fallo, puede ver el siguiente mensaje:

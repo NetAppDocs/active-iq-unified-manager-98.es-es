@@ -15,6 +15,7 @@ Unified Manager busca un nuevo archivo de reglas de Active IQ automáticamente y
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * La generación de informes de eventos de Active IQ debe estar habilitada.
@@ -23,12 +24,14 @@ Unified Manager busca un nuevo archivo de reglas de Active IQ automáticamente y
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Se recomienda descargar un nuevo archivo de reglas aproximadamente una vez al mes para asegurarse de que sus sistemas de almacenamiento están protegidos y de que se ejecutan de forma óptima. El archivo de reglas está ubicado en el directorio: http://mysupport.netapp.com/NOW/public/unified_manager/bin/secure_rules.zip[]
 
 
 
+[[steps]]
 == Pasos
 
 . En un equipo con acceso a la red, desplácese hasta el sitio de soporte de NetApp y descargue las reglas actuales `.zip` archivo.
@@ -43,6 +46,7 @@ Este proceso puede tardar varios minutos.
 
 
 
+[[results]]
 == Resultados
 
 El archivo de reglas se descomprime en el servidor de Unified Manager. Después de que los clústeres gestionados generen un archivo AutoSupport después de medianoche, Unified Manager comprobará los clústeres con respecto al archivo de reglas y generará nuevos eventos de riesgo e incidentes si es necesario.

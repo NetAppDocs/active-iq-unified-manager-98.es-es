@@ -15,6 +15,7 @@ Puede descargar informes y guardar los datos en una unidad local o de red como u
 
 
 
+[[steps]]
 == Pasos
 
 . Haga clic en el botón *Informes* para descargar el informe como una de las siguientes opciones:

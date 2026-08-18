@@ -15,12 +15,14 @@ Puede expandir el panel de gráficos de contador para que los gráficos sean má
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Una vez definidos los objetos de comparación y el intervalo de tiempo de los contadores, puede ver un panel de gráficos de contador más grande. Utilice el botón *<* en la parte central de la ventana del Explorador de rendimiento para expandir el panel.
 
 
 
+[[steps]]
 == Pasos
 
 . Expanda o reduzca el panel * Contador Charts*.

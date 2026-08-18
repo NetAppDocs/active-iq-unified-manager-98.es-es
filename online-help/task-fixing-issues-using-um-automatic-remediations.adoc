@@ -15,12 +15,14 @@ Hay ciertos eventos que Unified Manager puede diagnosticar a fondo y proporciona
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La mayoría de los eventos tienen diversas resoluciones posibles que se muestran en la página de detalles del evento de modo que puede implementar la mejor solución con System Manager de ONTAP o la CLI de ONTAP. Una acción *Fix it* está disponible cuando Unified Manager ha determinado que existe una única resolución para solucionar el problema y que se puede resolver mediante un comando CLI de ONTAP.
 
 
 
+[[steps]]
 == Pasos
 
 . Para ver los eventos que se pueden solucionar desde *Panel*, haga clic en *Panel*.

@@ -15,6 +15,7 @@ La página Security muestra el estado de seguridad de alto nivel de todos los cl
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación de la izquierda, haga clic en *Panel*.

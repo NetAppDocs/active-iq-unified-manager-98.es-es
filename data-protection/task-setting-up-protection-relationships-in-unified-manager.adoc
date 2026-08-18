@@ -15,6 +15,7 @@ Hay varios pasos que debe realizar para usar Unified Manager y OnCommand Workflo
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -29,6 +30,7 @@ Hay varios pasos que debe realizar para usar Unified Manager y OnCommand Workflo
 
 
 
+[[steps]]
 == Pasos
 
 . Según el tipo de relación de protección que desee crear, realice una de las siguientes acciones:

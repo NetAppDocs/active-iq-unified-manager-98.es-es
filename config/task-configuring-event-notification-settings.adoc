@@ -15,6 +15,7 @@ Es posible configurar Unified Manager para que envíe notificaciones de alerta c
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la siguiente información:
@@ -34,6 +35,7 @@ Debe tener el rol de administrador de aplicaciones o de administrador del almace
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *Notificaciones*.

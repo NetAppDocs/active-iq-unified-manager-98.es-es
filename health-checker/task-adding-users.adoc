@@ -15,6 +15,7 @@ Puede agregar usuarios locales o usuarios de bases de datos mediante la página 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener la función Administrador de aplicaciones.
@@ -27,12 +28,14 @@ No se permite el acceso a la interfaz de usuario para usuarios de tipo "'local'"
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Si agrega un grupo desde Windows Active Directory, todos los miembros directos y subgrupos anidados pueden autenticarse en Unified Manager, a menos que los subgrupos anidados estén deshabilitados. Si agrega un grupo desde OpenLDAP u otros servicios de autenticación, solo los miembros directos de ese grupo pueden autenticarse en Unified Manager.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *usuarios*.

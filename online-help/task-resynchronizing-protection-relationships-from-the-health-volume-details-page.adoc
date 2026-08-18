@@ -15,6 +15,7 @@ Puede volver a sincronizar los datos de una relación de SnapMirror o SnapVault 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Puede volver a sincronizar los datos de una relación de SnapMirror o SnapVault 
 
 
 
+[[steps]]
 == Pasos
 
 . En la ficha *Protección* de la página de detalles *volumen / Salud*, busque en la topología la relación de protección que desea volver a sincronizar y haga clic con el botón derecho del ratón en ella.

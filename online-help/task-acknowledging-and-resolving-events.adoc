@@ -15,12 +15,14 @@ Debe reconocer un evento antes de empezar a trabajar en el problema que generó 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede reconocer y resolver varios eventos al mismo tiempo.
@@ -32,6 +34,7 @@ No puede reconocer eventos de información.
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Gestión de eventos*.

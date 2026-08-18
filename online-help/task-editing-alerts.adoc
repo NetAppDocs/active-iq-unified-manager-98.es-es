@@ -15,12 +15,14 @@ Puede editar propiedades de alerta como el recurso con el que está asociada la 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *Configuración de alertas*.

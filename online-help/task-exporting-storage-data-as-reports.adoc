@@ -15,12 +15,14 @@ Puede exportar datos de almacenamiento en distintos formatos de salida y, a cont
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede exportar datos a un `.csv` archivo, `.xlsx` archivo, o. `.pdf` Documente las páginas de inventario *almacenamiento* y *Red* y utilice los datos exportados para generar informes. Hay otras ubicaciones en el producto donde sólo `.csv` o. `.pdf` se pueden generar archivos.
 
 
 
+[[steps]]
 == Pasos
 
 . Ejecute una de las siguientes acciones:

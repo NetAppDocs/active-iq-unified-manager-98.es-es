@@ -15,6 +15,7 @@ Puede crear LUN que sean compatibles con los protocolos CIFS/SMB y NFS en un cl�
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * La máquina virtual de almacenamiento debe tener espacio para aprovisionar la LUN.
@@ -24,6 +25,7 @@ Puede crear LUN que sean compatibles con los protocolos CIFS/SMB y NFS en un cl�
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Provision Workload*, agregue el nombre de la carga de trabajo que desea crear y, a continuación, seleccione el clúster de la lista Available.

@@ -15,6 +15,7 @@ Utilice la página Cluster/Performance Information para ver una lista de los atr
 
 
 
+[[cluster-attributes]]
 == Atributos del clúster
 
 * *Interfaz de red de gestión*

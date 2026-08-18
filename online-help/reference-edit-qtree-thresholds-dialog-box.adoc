@@ -21,6 +21,7 @@ Se puede configurar la configuración del umbral para la capacidad en el nivel d
 
 
 
+[[capacity-area]]
 == Área Capacity
 
 El área de capacidad permite establecer las siguientes condiciones de umbral de capacidad para qtrees:
@@ -43,6 +44,7 @@ También puede usar el control deslizante para configurar el valor del umbral.
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Los botones de comando le permiten realizar las siguientes tareas para un qtree seleccionado:

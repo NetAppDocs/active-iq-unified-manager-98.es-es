@@ -15,18 +15,21 @@ Puede generar un nuevo certificado de seguridad HTTPS por varios motivos, como s
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Si no tiene acceso a la interfaz de usuario web de Unified Manager, puede volver a generar el certificado HTTPS con los mismos valores mediante la consola de mantenimiento.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *Certificado HTTPS*.
@@ -66,6 +69,7 @@ Puede seleccionar la casilla de verificación "'excluir información de identifi
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Compruebe la información del nuevo certificado; para ello, consulte el certificado HTTPS.

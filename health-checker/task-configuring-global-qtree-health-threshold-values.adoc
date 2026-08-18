@@ -15,12 +15,14 @@ Puede configurar los valores de umbral de estado global de todos los qtrees para
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Las opciones de umbral tienen valores predeterminados para una mejor supervisión, sin embargo, puede cambiar los valores para adaptarlos a los requisitos de su entorno.
@@ -29,6 +31,7 @@ Los eventos se generan para un qtree solo cuando se ha establecido una cuota de 
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *umbrales de evento* > *Qtree*.

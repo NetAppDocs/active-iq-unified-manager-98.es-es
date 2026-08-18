@@ -15,6 +15,7 @@ Es posible ver el estado de todas las acciones de administración seleccionadas 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Hay tres vistas disponibles en la página Management Actions:
@@ -26,6 +27,7 @@ Hay tres vistas disponibles en la página Management Actions:
 
 
 
+[[steps]]
 == Pasos
 
 . Haga clic en image:../media/more-icon.gif[""] En la parte superior del panel *acciones de administración* y seleccione la vista que desea ver.

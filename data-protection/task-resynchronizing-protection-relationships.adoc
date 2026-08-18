@@ -15,6 +15,7 @@ En la página Volume Relationships, es posible volver a sincronizar una relació
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ En la página Volume Relationships, es posible volver a sincronizar una relació
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Relaciones de volumen*, seleccione uno o más volúmenes con relaciones en modo inactivo y, en la barra de herramientas, haga clic en *Resincronizar*.

@@ -15,6 +15,7 @@ Utilice *Mostrar/Ocultar* para seleccionar las columnas que desea utilizar en el
 
 
 
+[[steps]]
 == Pasos
 
 . Haga clic en *Mostrar/Ocultar* para añadir o eliminar columnas.

@@ -21,12 +21,14 @@ Hay tres tipos de gráficos de latencia disponibles:
 
 
 
+[[latency-total-counter-chart]]
 == Gráfico de contadores latency: Total counter
 
 Muestra el número de milisegundos necesarios para responder a las solicitudes de la aplicación. Los valores promedio de latencia son ponderados por I/O.
 
 
 
+[[latency-breakdown-counter-chart]]
 == Gráfico de contadores latency: Breakdown
 
 Muestra los mismos datos de latencia separados en latencia de lectura, escritura y otra.
@@ -35,6 +37,7 @@ Esta opción de gráfico se aplica cuando el objeto seleccionado es una SVM, un 
 
 
 
+[[latency-cluster-components-counter-chart]]
 == Latencia: Gráfico de contadores de componentes del clúster
 
 Muestra los datos de latencia por componente del clúster. Esto le permite identificar el componente del clúster responsable de la latencia. Al pasar el cursor por encima del gráfico, puede ver la contribución exacta de latencia de cada componente.
@@ -43,6 +46,7 @@ Esta opción de gráfico se aplica cuando el objeto seleccionado es una SVM, un 
 
 
 
+[[zoom-view-button]]
 == *Botón Zoom View*
 
 Muestra una vista ampliada de los datos del gráfico de contadores.

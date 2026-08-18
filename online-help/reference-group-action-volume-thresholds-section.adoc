@@ -33,6 +33,7 @@ Los valores predeterminados globales se utilizan si los umbrales de estado de lo
 
 
 
+[[capacity-section]]
 == Sección capacidad
 
 Se pueden establecer condiciones para los siguientes umbrales de estado de capacidad del volumen:
@@ -74,6 +75,7 @@ Especifica el porcentaje al que se considera que un volumen está sobrecargado:
 
 
 
+[[growth-section]]
 == Sección de crecimiento
 
 Se pueden definir las siguientes condiciones de umbral de estado para el crecimiento del volumen:
@@ -103,6 +105,7 @@ Un valor más bajo para la sensibilidad a la tasa de crecimiento indica que el a
 
 
 
+[[qtree-quota-section]]
 == Sección Qtree Quota
 
 Puede establecer las siguientes condiciones de umbral de estado para las cuotas de volumen:
@@ -131,6 +134,7 @@ Especifica el porcentaje al que se considera que un volumen está sobrecargado p
 
 
 
+[[snapshot-copies-section]]
 == Sección copias Snapshot
 
 Puede establecer las siguientes condiciones de umbral de estado para las copias Snapshot en el volumen:
@@ -169,6 +173,7 @@ Especifica el número de copias Snapshot en un volumen que se considera demasiad
 
 
 
+[[inodes-section]]
 == Sección Inodes
 
 Puede establecer las siguientes condiciones de umbral de estado para inodos:

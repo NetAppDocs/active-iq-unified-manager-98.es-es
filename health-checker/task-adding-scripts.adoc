@@ -15,6 +15,7 @@ Puede añadir scripts en Unified Manager y asociarlos con alertas. Estos scripts
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe haber creado y guardado los scripts que desea añadir al servidor de Unified Manager.
@@ -62,6 +63,7 @@ Si el script crea archivos de registro para realizar un seguimiento del progreso
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede cargar scripts personalizados y recopilar detalles de eventos acerca de la alerta.
@@ -73,6 +75,7 @@ Si no ve esta capacidad disponible en la interfaz de usuario, se debe a que el a
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Storage Management* > *Scripts*.

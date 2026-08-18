@@ -15,12 +15,14 @@ Es posible quitar una política de umbral de rendimiento definida por el usuario
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Solo puede eliminar una política cada vez de un objeto seleccionado.
@@ -29,6 +31,7 @@ Puede quitar una política de umbral de varios objetos de almacenamiento si sele
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Inventory* de cualquier objeto de almacenamiento, seleccione uno o más objetos que tengan al menos una política de umbral de rendimiento aplicada.

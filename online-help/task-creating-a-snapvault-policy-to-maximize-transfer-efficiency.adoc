@@ -15,6 +15,7 @@ Puede crear una nueva política de SnapVault para configurar la prioridad para u
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -24,6 +25,7 @@ Puede crear una nueva política de SnapVault para configurar la prioridad para u
 
 
 
+[[steps]]
 == Pasos
 
 . En la ficha *SnapVault* del cuadro de diálogo *Configurar protección*, haga clic en el enlace *Crear directiva* del área *Configuración de relación*.

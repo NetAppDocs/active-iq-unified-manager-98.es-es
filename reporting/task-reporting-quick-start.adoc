@@ -15,6 +15,7 @@ Cree un informe personalizado de ejemplo para disfrutar de la exploración de vi
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Cree un informe personalizado de ejemplo para disfrutar de la exploración de vi
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Siga estos pasos para:
@@ -35,6 +37,7 @@ Siga estos pasos para:
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.
@@ -100,6 +103,7 @@ image::../media/pdf-sample-report.gif[ejemplo de informe en pdf]
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 En función de los resultados mostrados en el informe, puede que desee utilizar System Manager de ONTAP o la interfaz de línea de comandos de ONTAP para cambiar la política de organización en niveles a «'auto» o «'all'» en determinados volúmenes para descargar más datos inactivos al nivel cloud.

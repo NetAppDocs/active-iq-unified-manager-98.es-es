@@ -15,12 +15,14 @@ Es posible ver la lista de alertas que se crean para varios eventos en la págin
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *Configuración de alertas*.

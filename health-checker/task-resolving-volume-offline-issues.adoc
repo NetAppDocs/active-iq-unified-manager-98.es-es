@@ -15,12 +15,14 @@ Este flujo de trabajo proporciona un ejemplo de cómo se puede evaluar y resolve
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Es posible que los volúmenes se informen sin conexión por varios motivos:
@@ -35,6 +37,7 @@ Puede usar la página del inventario Event Management y las páginas de detalles
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Gestión de eventos*.

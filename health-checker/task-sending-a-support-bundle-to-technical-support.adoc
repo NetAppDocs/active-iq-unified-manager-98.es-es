@@ -15,6 +15,7 @@ Cuando un problema requiere un diagnóstico más detallado y una información de
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener acceso al bundle de soporte para enviarlo al soporte técnico.
@@ -23,6 +24,7 @@ Debe tener un número de caso generado a través del sitio web de soporte técni
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión en el sitio de soporte de NetApp.

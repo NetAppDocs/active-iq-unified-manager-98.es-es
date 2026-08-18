@@ -15,6 +15,7 @@ Puede utilizar el cuadro de diálogo reorganizar regla de anotación para especi
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -31,6 +32,7 @@ Cierra el cuadro de diálogo reorganizar regla de anotación sin guardar los cam
 
 
 
+[[list-view]]
 == Vista de lista
 
 * *Rango*

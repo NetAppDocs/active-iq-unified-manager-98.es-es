@@ -15,6 +15,7 @@ Puede reiniciar el equipo virtual desde la consola de mantenimiento de Unified M
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 El dispositivo virtual está encendido.
@@ -23,12 +24,14 @@ Ha iniciado sesión en la consola de mantenimiento como usuario de mantenimiento
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 También puede reiniciar la máquina virtual desde vSphere mediante la opción **Restart Guest**. Para obtener más información, consulte la documentación de VMware.
 
 
 
+[[steps]]
 == Pasos
 
 . Acceda a la consola de mantenimiento.

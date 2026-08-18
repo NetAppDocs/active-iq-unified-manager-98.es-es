@@ -15,6 +15,7 @@ Puede crear reglas para especificar la dirección de correo electrónico según 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Puede crear reglas para especificar la dirección de correo electrónico según 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Debe definir las reglas para las direcciones de correo electrónico de cuota e introducirlas en el orden en el que desea ejecutarlas. Por ejemplo, si desea utilizar la dirección de correo electrónico qtree1@xyz.com para recibir notificaciones acerca de las brechas de cuotas para qtre1 y utilizar la dirección de correo electrónico admin@xyz.com para todos los demás qtrees, las reglas deben aparecer en el siguiente orden:
@@ -37,6 +39,7 @@ SI ( $USER_OR_GROUP == * ) ENTONCES $USER_OR_GROUP@$DOMAIN
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación de la izquierda, haga clic en *General* > *Reglas de correo electrónico de cuota*.

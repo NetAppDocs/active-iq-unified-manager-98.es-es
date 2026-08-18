@@ -15,6 +15,7 @@ En la página Seguridad, se muestran los tipos de autenticación que se usan par
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación de la izquierda, haga clic en *Panel*.
@@ -26,6 +27,7 @@ En la página Seguridad, se muestran los tipos de autenticación que se usan par
 
 
 
+[[results]]
 == Resultados
 
 Si hay algunos usuarios que acceden al sistema mediante un método no seguro o utilizan un método que no recomienda NetApp, puede deshabilitar el método.

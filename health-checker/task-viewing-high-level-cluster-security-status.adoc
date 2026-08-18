@@ -15,6 +15,7 @@ El panel Seguridad de Unified Manager Dashboard muestra un estado de seguridad d
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación de la izquierda, haga clic en *Panel*.

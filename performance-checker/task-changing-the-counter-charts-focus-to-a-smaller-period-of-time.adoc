@@ -15,6 +15,7 @@ Puede utilizar el ratón para reducir el intervalo de tiempo para centrarse en u
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 El cursor debe haber cambiado a una lupa para indicar que esta funcionalidad está activa.
@@ -26,6 +27,7 @@ Cuando se utiliza esta función, que altera la línea de tiempo para mostrar los
 ====
 
 
+[[steps]]
 == Pasos
 
 . Para ampliar un período de tiempo específico, haga clic en la lupa y arrastre el ratón para resaltar el área que desea ver en detalle.

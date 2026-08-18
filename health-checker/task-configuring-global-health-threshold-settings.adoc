@@ -15,6 +15,7 @@ Puede configurar las condiciones de umbral de estado global para la capacidad, e
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La configuración de umbral de estado global se aplica a todos los objetos con los que están asociados, como agregados, volúmenes, etc. Cuando se sobrepasan los umbrales, se genera un evento y, si se configuran alertas, se envía una notificación de alerta. Los valores predeterminados de umbral se establecen en valores recomendados, pero se pueden modificar para generar eventos a intervalos que satisfagan sus necesidades específicas. Cuando se cambian los umbrales, los eventos se generan o se vuelven obsoletos en el próximo ciclo de supervisión.
@@ -23,6 +24,7 @@ Se puede acceder a los ajustes del umbral de estado global desde la sección umb
 
 
 
+[[choices]]
 == Opciones
 
 * xref:task-configuring-global-aggregate-health-threshold-values.adoc[Configuración de los valores de umbral de estado globales del agregado]

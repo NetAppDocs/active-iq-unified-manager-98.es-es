@@ -19,6 +19,7 @@ También puede ver los volúmenes NAS o LUN en una configuración de recuperaci�
 
 
 
+[[viewing-datastores-in-metrocluster-configuration]]
 == Ver almacenes de datos en la configuración de MetroCluster
 
 Tenga en cuenta los siguientes requisitos previos antes de ver almacenes de datos en una configuración de MetroCluster:
@@ -43,6 +44,7 @@ Siga estos pasos para ver los almacenes de datos:
 
 
 
+[[viewing-datastores-in-storage-vm-disaster-recovery-configuration]]
 == Ver almacenes de datos en la configuración de recuperación ante desastres de la máquina virtual de almacenamiento
 
 Tenga en cuenta los siguientes requisitos previos antes de ver almacenes de datos en una configuración de recuperación ante desastres de una máquina virtual de almacenamiento:
@@ -78,6 +80,7 @@ Siga estos pasos para ver los almacenes de datos:
 
 
 
+[[unsupported-scenarios]]
 == Escenarios no compatibles
 
 * Para una configuración MetroCluster, tenga en cuenta las siguientes limitaciones:

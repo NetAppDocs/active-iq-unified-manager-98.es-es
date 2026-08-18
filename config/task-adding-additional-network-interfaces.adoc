@@ -15,6 +15,7 @@ Puede agregar nuevas interfaces de red si necesita separar el tráfico de red.
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe haber añadido la interfaz de red al dispositivo virtual mediante vSphere.
@@ -23,6 +24,7 @@ El dispositivo virtual debe estar encendido.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 [NOTE]
@@ -32,6 +34,7 @@ No puede realizar esta operación si Unified Manager está instalado en Red Hat 
 ====
 
 
+[[steps]]
 == Pasos
 
 . En vSphere Console *Main Menu*, seleccione *Configuración del sistema* > *Reiniciar el sistema operativo*.

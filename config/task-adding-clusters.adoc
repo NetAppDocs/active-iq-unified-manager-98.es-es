@@ -15,6 +15,7 @@ Puede añadir un clúster a la Active IQ Unified Manager para poder supervisar e
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -46,6 +47,7 @@ Puede agregar clústeres que están detrás de un servidor de seguridad/NAT util
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Para una configuración de MetroCluster, debe añadir los clústeres local y remoto, y los clústeres deben configurarse correctamente.
@@ -54,6 +56,7 @@ Puede supervisar un único clúster mediante dos instancias de Unified Manager s
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Storage Management* > *Cluster Setup*.
@@ -75,6 +78,7 @@ Si el certificado ha caducado, no puede añadir un clúster nuevo. Primero debe 
 
 
 
+[[results]]
 == Resultados
 
 Después de detectar todos los objetos de un clúster nuevo (aproximadamente 15 minutos), Unified Manager comienza a recopilar datos de rendimiento históricos de los 15 días anteriores. Estas estadísticas se recopilan mediante la funcionalidad de recogida de continuidad de datos. Esta función le proporciona más de dos semanas de información sobre el rendimiento de un clúster inmediatamente después de añadir. Una vez completado el ciclo de recogida de continuidad de datos, se recogen datos de rendimiento del clúster en tiempo real, de forma predeterminada, cada cinco minutos.

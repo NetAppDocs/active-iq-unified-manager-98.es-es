@@ -15,12 +15,14 @@ Puede supervisar y diagnosticar la condición de estado general de las conexione
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Tanto el clúster local como el remoto de la configuración de MetroCluster se deben añadir a Unified Manager
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede utilizar la información que se muestra en la página de detalles Cluster / Health para corregir cualquier problema de replicación.
@@ -31,6 +33,7 @@ Unified Manager utiliza alertas de estado del sistema para supervisar el estado 
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *clústeres*.
@@ -45,6 +48,7 @@ La topología de la configuración de MetroCluster que se va a replicar se muest
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Si detecta problemas de mirroring en la configuración de MetroCluster, debe iniciar sesión en System Manager o acceder a la CLI de ONTAP para resolver los problemas.

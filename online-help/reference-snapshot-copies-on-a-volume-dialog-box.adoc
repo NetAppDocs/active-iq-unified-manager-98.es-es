@@ -15,6 +15,7 @@ Puede usar el cuadro de diálogo Snapshot Copies on a Volume para ver la lista d
 
 
 
+[[list-view]]
 == Vista de lista
 
 La vista de lista muestra, en una tabla de resultados, información sobre las copias Snapshot en el volumen. Puede utilizar los filtros de columnas para personalizar los datos que se muestran.
@@ -43,6 +44,7 @@ Muestra las aplicaciones que dependen de la copia Snapshot. Los valores posibles
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Los botones de comando le permiten realizar las siguientes tareas:

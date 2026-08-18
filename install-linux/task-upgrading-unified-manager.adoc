@@ -15,6 +15,7 @@ Puede actualizar desde Unified Manager 9.6 o 9.7 a 9.8 descargando y ejecutando 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * El sistema donde se actualiza Unified Manager debe cumplir con los requisitos del sistema y del software.
@@ -43,6 +44,7 @@ El instalador de Unified Manager solo se ha restringido a soporte técnico hasta
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión en el servidor Red Hat Enterprise Linux o CentOS de destino.
@@ -108,6 +110,7 @@ https://fully_qualified_domain_name/
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Introduzca la dirección IP o URL especificada en un explorador web compatible para iniciar la interfaz de usuario web de Unified Manager y, a continuación, inicie sesión con el mismo nombre de usuario de mantenimiento (umadmin) y la misma contraseña que configuró anteriormente.

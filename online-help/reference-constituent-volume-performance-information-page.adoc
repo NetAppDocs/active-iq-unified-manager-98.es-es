@@ -15,6 +15,7 @@ Utilice la página Información de volumen/rendimiento de componente para ver un
 
 
 
+[[constituent-volume-attributes]]
 == Atributos del volumen constituyente
 
 * *Tipo*

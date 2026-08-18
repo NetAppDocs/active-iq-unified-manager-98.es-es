@@ -15,6 +15,7 @@ Utilice la página Network Interface/Performance Information para ver una lista 
 
 
 
+[[network-interface-attributes]]
 == Atributos de interfaz de red
 
 * *Dirección IP*

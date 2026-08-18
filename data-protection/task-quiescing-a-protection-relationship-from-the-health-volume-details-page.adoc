@@ -15,6 +15,7 @@ Es posible poner en modo inactivo una relación de protección para evitar tempo
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Es posible poner en modo inactivo una relación de protección para evitar tempo
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La acción de inactividad no se muestra en las siguientes instancias:
@@ -34,6 +36,7 @@ La acción de inactividad no se muestra en las siguientes instancias:
 
 
 
+[[steps]]
 == Pasos
 
 . En la pestaña *Protección* de la página de detalles *volumen / Salud*, haga clic con el botón derecho del ratón en la relación en la vista de topología para la relación de protección que desea desactivar.

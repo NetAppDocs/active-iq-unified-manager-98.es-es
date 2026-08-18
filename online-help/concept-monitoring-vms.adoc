@@ -26,6 +26,7 @@ Puede determinar la ruta de I/o y las latencias de los componentes desde un aspe
 
 
 
+[[viewing-summary-topology]]
 == Visualización de la topología de resumen
 
 Para determinar los problemas de rendimiento, vea las máquinas virtuales en una topología de resumen
@@ -56,6 +57,7 @@ xref:concept-troubleshooting-workloads-using-the-workload-analyzer.adoc[Solucion
 
 
 
+[[viewing-expanded-topology]]
 == Visualización de topología expandida
 
 Es posible desglosar cada componente por separado para ver la topología expandida de la máquina virtual.

@@ -15,18 +15,21 @@ Este flujo de trabajo proporciona un ejemplo de cómo puede analizar, evaluar y 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Si se producen errores en las interconexiones de conmutación por error del almacenamiento entre nodos de parejas de alta disponibilidad durante un intento de actualización no disruptivo, la actualización falla. Por lo tanto, una práctica común es que el administrador supervise y confirme la fiabilidad de la conmutación por error del almacenamiento en los nodos del clúster que desea actualizar antes del inicio de una actualización.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Gestión de eventos*.

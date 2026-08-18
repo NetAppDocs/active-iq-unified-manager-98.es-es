@@ -15,6 +15,7 @@ Unified Manager genera eventos de advertencia sobre las políticas de calidad de
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -23,6 +24,7 @@ Unified Manager genera eventos de advertencia sobre las políticas de calidad de
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Unified Manager genera eventos de advertencia para incumplimiento de políticas de calidad de servicio cuando el rendimiento de la carga de trabajo superó la configuración de la política de calidad de servicio definida durante cada periodo de recogida de rendimiento de la hora anterior. El rendimiento de la carga de trabajo puede superar el umbral de calidad de servicio durante un breve periodo de tiempo durante cada periodo de recogida, pero Unified Manager muestra únicamente el rendimiento «medio» durante el periodo de recogida del gráfico. Por este motivo, puede recibir eventos de calidad de servicio mientras que el rendimiento de una carga de trabajo puede no haber superado el umbral de política que se muestra en el gráfico.
@@ -38,6 +40,7 @@ Puede usar System Manager o los comandos de la ONTAP para gestionar los grupos d
 
 
 
+[[steps]]
 == Pasos
 
 . Abra la página de detalles *Event* para ver información sobre el evento.

@@ -35,6 +35,7 @@ Especifica las condiciones que determinan los objetos de almacenamiento que se p
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Guardar y Agregar*

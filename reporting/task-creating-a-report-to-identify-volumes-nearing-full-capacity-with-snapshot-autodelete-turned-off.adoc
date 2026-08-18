@@ -15,6 +15,7 @@ Puede crear un informe que contenga la lista de volúmenes que se esté acercand
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe que contenga la lista de volúmenes que se esté acercand
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Siga los pasos que se indican a continuación para crear una vista personalizada que muestre las columnas necesarias en el orden correcto y, a continuación, programe un informe que se genere para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.
@@ -51,6 +54,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 En función de los resultados mostrados en el informe, quizás desee habilitar la eliminación automática de instantánea en los volúmenes o buscar una forma de aumentar el espacio disponible.

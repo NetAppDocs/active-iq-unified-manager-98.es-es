@@ -15,6 +15,7 @@ Si tiene habilitada la autenticación remota, puede deshabilitar la autenticaci�
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener la función Administrador de aplicaciones.
@@ -23,12 +24,14 @@ Si tiene habilitada la autenticación remota, puede deshabilitar la autenticaci�
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Al deshabilitar la compatibilidad con los grupos anidados en Unified Manager, es posible que se reduzca el tiempo de autenticación. Si la compatibilidad de grupos anidados está deshabilitada y, si se añade un grupo remoto a Unified Manager, los usuarios individuales deben ser miembros del grupo remoto para autenticarse en Unified Manager.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *autenticación remota*.

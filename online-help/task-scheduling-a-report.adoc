@@ -15,6 +15,7 @@ Después de tener una vista o un archivo de Excel que desee programar para la ge
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -24,12 +25,14 @@ Después de tener una vista o un archivo de Excel que desee programar para la ge
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Utilice los pasos siguientes para probar y programar un informe que se generará para una vista. Seleccione o personalice la vista que desee usar. El procedimiento siguiente utiliza una vista de red que muestra el rendimiento de las interfaces de red, pero puede utilizar cualquier vista que desee.
 
 
 
+[[steps]]
 == Pasos
 
 . Abra la vista. En este ejemplo, se utiliza la vista de red predeterminada que muestra el rendimiento de la LIF. En el panel de navegación izquierdo, haga clic en**Network** > *interfaces de red*.

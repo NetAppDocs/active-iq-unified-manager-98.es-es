@@ -15,6 +15,7 @@ Puede eliminar una copia Snapshot para conservar espacio o a liberar espacio en 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -25,6 +26,7 @@ Para eliminar una copia snapshot que está ocupada o bloqueada, debe haber liber
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 * No puede eliminar la copia snapshot básica de un volumen principal si un volumen FlexClone está utilizando esa copia snapshot.
@@ -39,6 +41,7 @@ La copia snapshot está bloqueada y es necesaria para la siguiente actualizació
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.

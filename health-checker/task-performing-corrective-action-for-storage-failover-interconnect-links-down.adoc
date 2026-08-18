@@ -15,12 +15,14 @@ Cuando se muestra la página de detalles Event de un evento de almacenamiento re
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 En este ejemplo, el resumen de eventos que se proporciona en la página de detalles Event contiene la siguiente información sobre la condición de enlace inactivo de la interconexión de conmutación por error de almacenamiento:
@@ -50,6 +52,7 @@ Sin embargo, para asegurarse de que los enlaces que fallan y la protección de r
 
 
 
+[[steps]]
 == Pasos
 
 . En la página de detalles *Event*, puede hacer clic en el enlace al evento especificado en el campo Source para obtener más detalles de otros eventos que podrían estar relacionados con la condición de enlace inactivo de interconexión de conmutación por error del almacenamiento.
@@ -64,6 +67,7 @@ En este ejemplo, la información relevante se encuentra en la tabla Eventos. La 
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Mediante la información de ubicación del nodo en los detalles de alta disponibilidad, solicite o realice una inspección física y reparación del problema de la conmutación por error del almacenamiento en los nodos del par de alta disponibilidad afectados.

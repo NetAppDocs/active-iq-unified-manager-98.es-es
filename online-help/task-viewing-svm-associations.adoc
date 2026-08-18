@@ -15,12 +15,14 @@ Puede usar la página Storage VM Associations para ver las asociaciones de SVM e
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Protección* > *Asociaciones de SVM*.

@@ -52,24 +52,27 @@ Unified Manager se puede instalar en sistemas con una pequeña cantidad de memor
 
 Asimismo, existe un límite en cuanto al número de nodos que puede supervisar una única instancia de Unified Manager antes de instalar una segunda instancia de Unified Manager. Para obtener más información, consulte la _Best Practices Guide_.
 
-https://www.netapp.com/pdf.html?item=/media/13504-tr4621pdf.pdf["Informe técnico 4621: Guía de prácticas recomendadas de Unified Manager"^]
+https://www.netapp.com/pdf.html?item=/media/13504-tr4621.pdf["Informe técnico 4621: Guía de prácticas recomendadas de Unified Manager"^]
 
 El intercambio de la memoria por página afecta negativamente al rendimiento del sistema y de la aplicación de gestión. Competir por recursos CPU que no están disponibles debido al uso general del host puede degradar el rendimiento.
 
 
 
+[[requirement-for-dedicated-use]]
 == Requisito para un uso dedicado
 
 El sistema físico o virtual en el que se instala Unified Manager se debe utilizar exclusivamente para Unified Manager y no se debe compartir con otras aplicaciones. Otras aplicaciones pueden consumir recursos del sistema y reducir drásticamente el rendimiento de Unified Manager.
 
 
 
+[[space-requirements-for-backups]]
 == Requisitos de espacio para backups
 
 Si tiene previsto utilizar la función de backup y restauración de Unified Manager, asigne capacidad adicional para que el directorio o disco «data» tenga 150 GB de espacio. Una copia de seguridad se puede escribir en un destino local o en un destino remoto. La práctica recomendada es identificar una ubicación remota externa al sistema host de Unified Manager que tiene un mínimo de 150 GB de espacio.
 
 
 
+[[requirements-for-host-connectivity]]
 == Requisitos para la conectividad de host
 
 El sistema físico o el sistema virtual en el que instala Unified Manager debe configurarse de modo que pueda hacerlo correctamente `ping` el nombre de host del propio host. En caso de configuración IPv6, debe verificar que sí `ping6` El nombre de host se realiza correctamente para garantizar que la instalación de Unified Manager se realice correctamente.

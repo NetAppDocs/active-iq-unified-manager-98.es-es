@@ -15,12 +15,14 @@ A partir de Unified Manager 9.7, puede aprovisionar cargas de trabajo de almacen
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Esta opción está habilitada de forma predeterminada, pero puede deshabilitarla si no se desean aprovisionar y gestionar cargas de trabajo mediante Unified Manager.
@@ -62,6 +64,7 @@ Consulte la ayuda en línea del producto para obtener más información sobre es
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *Configuración de funciones*.

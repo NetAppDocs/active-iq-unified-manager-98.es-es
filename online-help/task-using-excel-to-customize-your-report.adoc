@@ -15,12 +15,14 @@ Una vez guardada la vista, puede descargarla en formato de libro de Excel (.xlsx
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Sólo puede cargar un archivo de libro de Excel con `.xlsx` extensión.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Por ejemplo, algunas de las características avanzadas de Excel que puede utilizar en el informe incluyen:
@@ -52,6 +54,7 @@ Por ejemplo, algunas de las características avanzadas de Excel que puede utiliz
 ====
 
 
+[[steps]]
 == Pasos
 
 . Abra la vista predeterminada, personalizada o guardada que desee utilizar como base para el informe.

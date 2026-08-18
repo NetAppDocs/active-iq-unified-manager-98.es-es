@@ -15,12 +15,14 @@ Puede editar la configuración de usuario, como la dirección de correo electró
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Cuando se modifica el rol asignado a un usuario, los cambios se aplican cuando se produce cualquiera de las siguientes acciones:
@@ -31,6 +33,7 @@ Cuando se modifica el rol asignado a un usuario, los cambios se aplican cuando s
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *usuarios*.

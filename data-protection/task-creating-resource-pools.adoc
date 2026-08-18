@@ -15,18 +15,21 @@ Puede utilizar el cuadro de diálogo Crear pool de recursos para agrupar agregad
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Los pools de recursos pueden contener agregados de clústeres de diferentes, pero el mismo agregado no puede pertenecer a pools de recursos diferentes.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Protección* > *agrupaciones de recursos*.

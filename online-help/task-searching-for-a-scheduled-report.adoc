@@ -15,6 +15,7 @@ Puede buscar informes programados por nombre, nombre de vista, tipo de objeto o 
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *programas de informes*.

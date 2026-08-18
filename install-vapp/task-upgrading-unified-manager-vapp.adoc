@@ -15,6 +15,7 @@ Puede actualizar a Unified Manager 9.8 solo desde instancias de 9.6 o 9.7.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Durante el proceso de actualización, Unified Manager no está disponible. Debe completar todas las operaciones en ejecución antes de actualizar Unified Manager.

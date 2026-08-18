@@ -15,12 +15,14 @@ Puede utilizar la página trabajos para cancelar un trabajo si tarda demasiado e
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Protección* > *trabajos*.

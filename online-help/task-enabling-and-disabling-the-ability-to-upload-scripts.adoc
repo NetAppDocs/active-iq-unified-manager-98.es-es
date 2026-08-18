@@ -15,12 +15,14 @@ La capacidad de cargar scripts en Unified Manager y ejecutarlas está habilitada
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *Configuración de funciones*.

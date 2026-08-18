@@ -15,6 +15,7 @@ Es posible crear un informe que muestre el estado de las transferencias de volú
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Es posible crear un informe que muestre el estado de las transferencias de volú
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Utilice los pasos siguientes para crear una vista personalizada para mostrar qué transferencias han fallado y cuáles se han realizado correctamente y, a continuación, programe un informe que se generará para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.
@@ -45,6 +48,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 En función de los resultados mostrados en el informe, puede investigar el estado de la transferencia.

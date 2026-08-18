@@ -27,6 +27,7 @@ Proporciona una descripción significativa de la anotación. Puede editar este c
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Guardar y cerrar*

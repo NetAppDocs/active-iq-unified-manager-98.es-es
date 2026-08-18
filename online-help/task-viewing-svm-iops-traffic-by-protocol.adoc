@@ -15,6 +15,7 @@ Puede ver información detallada sobre las IOPS de una SVM mediante la página P
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Además, en el gráfico IOPS - Protocolos se muestra una comparación detallada del tráfico de IOPS de cada protocolo que se utiliza en la SVM. Están disponibles los siguientes protocolos:
@@ -28,6 +29,7 @@ Además, en el gráfico IOPS - Protocolos se muestra una comparación detallada 
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Performance/SVM Explorer* de la SVM seleccionada, en el gráfico IOPS, seleccione *Protocolos* en el menú desplegable.

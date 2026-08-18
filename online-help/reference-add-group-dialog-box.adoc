@@ -27,6 +27,7 @@ Especifica una descripción significativa del grupo.
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Los botones de comando permiten agregar o cancelar la creación de un nuevo grupo.

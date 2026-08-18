@@ -15,6 +15,7 @@ Puede crear un informe para encontrar las SVM que alcanzan el límite máximo de
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para encontrar las SVM que alcanzan el límite máximo de
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Siga los siguientes pasos para crear una vista personalizada que muestre las máquinas virtuales de almacenamiento que alcanzan el límite máximo de volúmenes y, a continuación, programar un informe para que se genere en esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *Storage VMs*.
@@ -45,6 +48,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Según los resultados mostrados en el informe, quizás desee equilibrar los volúmenes asignados a equipos virtuales de almacenamiento o, si es posible, usar System Manager de ONTAP para cambiar el número máximo permitido de volúmenes.

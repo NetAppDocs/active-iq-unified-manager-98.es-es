@@ -16,6 +16,7 @@ Puede desinstalar Unified Manager mediante el asistente de programas y caracter√
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener privilegios de administrador de Windows.
@@ -24,6 +25,7 @@ Puede desinstalar Unified Manager mediante el asistente de programas y caracter√
 
 
 
+[[steps]]
 == Pasos
 
 . Desinstale Unified Manager seleccionando una de las siguientes opciones:

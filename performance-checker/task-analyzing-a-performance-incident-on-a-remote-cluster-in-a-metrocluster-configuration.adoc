@@ -15,6 +15,7 @@ Es posible utilizar Unified Manager para analizar eventos dinámicos de rendimie
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -24,6 +25,7 @@ Es posible utilizar Unified Manager para analizar eventos dinámicos de rendimie
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión en la instancia de Unified Manager que supervisa el clúster de partners.

@@ -15,6 +15,7 @@ El timbre de notificación (image:../media/notification-bell.png[""]) En la barr
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La lista de eventos activos permite ver el número total de eventos críticos, de error, de advertencia y de actualización en todos los clústeres. Esta lista incluye eventos de los 7 días anteriores y no incluye eventos de información. Puede hacer clic en un enlace para mostrar la lista de los eventos que más le interesen.
@@ -23,6 +24,7 @@ Tenga en cuenta que, cuando no se puede acceder a un clúster, Unified Manager m
 
 
 
+[[steps]]
 == Pasos
 
 . En la barra de menú, haga clic en image:../media/notification-bell.png[""].

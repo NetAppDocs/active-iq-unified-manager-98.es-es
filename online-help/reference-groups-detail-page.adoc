@@ -15,6 +15,7 @@ En la página de detalles grupos, puede ver los detalles de un grupo seleccionad
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Ver grupos*
@@ -37,6 +38,7 @@ Permite desplazarse a la página Group Actions (acciones de grupo), que muestra 
 
 
 
+[[summary-area]]
 == Área Summary
 
 Se pueden ver los siguientes detalles del grupo:

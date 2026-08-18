@@ -15,12 +15,14 @@ Es posible editar la configuración del umbral de estado para la capacidad de vo
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Basándose en los cambios de los valores de umbral, los eventos se generan o se vuelven obsoletos en el siguiente ciclo de supervisión.
@@ -34,6 +36,7 @@ El valor predeterminado de 1000 copias de Snapshot se aplica solo a los volúmen
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.

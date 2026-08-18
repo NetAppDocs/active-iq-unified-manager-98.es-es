@@ -15,18 +15,21 @@ Puede configurar Unified Manager para que envíe notificaciones que le alertan d
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Después de implementar Unified Manager y completar la configuración inicial, se debe considerar configurar el entorno para activar alertas y generar correos electrónicos de notificación o capturas SNMP en función de la recepción de eventos.
 
 
 
+[[steps]]
 == Pasos
 
 . link:task-configuring-event-notification-settings.html["Configure los ajustes de notificación de eventos"]

@@ -15,6 +15,7 @@ La aplicación de umbrales en la vista Zoom de gráficos de contador proporciona
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La selección de umbrales en la vista de zoom de gráficos de contador permite ver datos precisos acerca de los eventos de umbral de rendimiento. Puede aplicar cualquier umbral que aparezca en el área *políticas* de la vista de zoom de los gráficos de contador.
@@ -23,6 +24,7 @@ Sólo se puede aplicar una directiva cada vez al objeto en la vista Zoom de los 
 
 
 
+[[steps]]
 == Pasos
 
 . Seleccione o anule la selección de image:../media/eye-icon.gif[""] esto está asociado a una política.

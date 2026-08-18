@@ -15,6 +15,7 @@ En la ficha Favoritos de ayuda, puede marcar los temas de Ayuda que utiliza con 
 
 
 
+[[steps]]
 == Pasos
 
 . Desplácese al tema de Ayuda que desea agregar como favorito.

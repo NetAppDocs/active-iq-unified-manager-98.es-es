@@ -15,6 +15,7 @@ Puede cargar e instalar un certificado de seguridad después de que una entidad 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe haber completado las siguientes acciones:
@@ -28,6 +29,7 @@ Debe tener la función Administrador de aplicaciones.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *Certificado HTTPS*.
@@ -38,6 +40,7 @@ Debe tener la función Administrador de aplicaciones.
 
 
 
+[[example-certificate-chain]]
 == Ejemplo de cadena de certificados
 
 El siguiente ejemplo muestra cómo puede aparecer el archivo de cadena de certificados:

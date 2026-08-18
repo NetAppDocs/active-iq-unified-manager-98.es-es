@@ -15,12 +15,14 @@ Puede modificar la configuración de un clúster existente, como el nombre de ho
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 [NOTE]
@@ -30,6 +32,7 @@ A partir de Unified Manager 9.7, los clústeres se pueden añadir solo mediante 
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Storage Management* > *Cluster Setup*.

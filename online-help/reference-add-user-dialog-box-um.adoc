@@ -43,6 +43,7 @@ Permite asignar un rol al usuario y definir el alcance de las actividades que pu
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Los botones de comando le permiten realizar las siguientes tareas:

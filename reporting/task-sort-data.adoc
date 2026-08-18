@@ -15,6 +15,7 @@ Para ordenar los resultados, haga clic en una columna e indique el orden ascende
 
 
 
+[[steps]]
 == Pasos
 
 . Haga clic en la parte superior de una columna para ordenar los resultados de modo que la información más importante aparezca en la parte superior de la vista.

@@ -15,6 +15,7 @@ Puede crear un informe que contenga la lista de volúmenes que residen actualmen
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,12 +24,14 @@ Puede crear un informe que contenga la lista de volúmenes que residen actualmen
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Siga los pasos que se indican a continuación para crear una vista personalizada que muestre las columnas necesarias en el orden correcto y, a continuación, programe un informe que se genere para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.
@@ -57,6 +60,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 En función de los resultados mostrados en el informe, puede que desee utilizar System Manager o la interfaz de línea de comandos de ONTAP para cambiar la política de organización en niveles a «'auto» o «'all'» en determinados volúmenes para descargar más datos inactivos al nivel cloud.

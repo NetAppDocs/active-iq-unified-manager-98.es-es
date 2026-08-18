@@ -15,12 +15,14 @@ Puede determinar si el almacenamiento en caché de origen de datos de Unified Ma
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Para realizar esta tarea, debe tener asignado la función Administrador o la función Arquitecto de Workflow Automation.
 
 
 
+[[steps]]
 == Pasos
 
 . En la interfaz de usuario de Workflow Automation, seleccione *ejecución* > *orígenes de datos*.

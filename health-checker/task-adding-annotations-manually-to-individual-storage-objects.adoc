@@ -15,12 +15,14 @@ Puede anotar manualmente volúmenes, clústeres y SVM seleccionados sin usar reg
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[steps]]
 == Pasos
 
 . Desplácese hasta los objetos de almacenamiento que desea anotar:

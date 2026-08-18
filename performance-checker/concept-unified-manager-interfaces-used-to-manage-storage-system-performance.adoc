@@ -15,6 +15,7 @@ Active IQ Unified Manager proporciona dos interfaces de usuario para supervisar 
 
 
 
+[[unified-manager-web-ui]]
 == Interfaz de usuario web de Unified Manager
 
 La interfaz de usuario web de Unified Manager permite a un administrador supervisar y solucionar los problemas del sistema de almacenamiento relacionados con el rendimiento.
@@ -23,6 +24,7 @@ En esta sección se describen algunos flujos de trabajo comunes que puede seguir
 
 
 
+[[maintenance-console]]
 == Consola de mantenimiento
 
 La consola de mantenimiento permite a un administrador supervisar, diagnosticar y solucionar problemas del sistema operativo, problemas de actualización de la versión, problemas de acceso del usuario y problemas de red relacionados con el servidor de Unified Manager mismo. Si la interfaz de usuario web de Unified Manager no está disponible, la consola de mantenimiento es el único formato de acceso a Unified Manager.

@@ -15,6 +15,7 @@ Puede buscar cadenas en páginas rendimiento de inventario de objetos. Utilice e
 
 
 
+[[steps]]
 == Pasos
 
 . Realice una de las siguientes opciones según sus requisitos de búsqueda:

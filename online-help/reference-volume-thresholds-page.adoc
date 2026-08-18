@@ -21,6 +21,7 @@ Puede establecer umbrales para lo siguiente: Capacidad, copias Snapshot de volum
 
 
 
+[[capacity-area]]
 == Área Capacity
 
 El área de capacidad permite establecer las siguientes condiciones de umbral de capacidad de volumen. Tenga en cuenta que cuando se habilita la opción Autofila en un volumen, se consideran límites de capacidad según el tamaño máximo de volumen establecido por crecimiento automático, no según el tamaño del volumen original.
@@ -62,6 +63,7 @@ Especifica la cantidad de días que queda para que el volumen alcance la capacid
 
 
 
+[[snapshot-copies-area]]
 == Área Snapshot copies
 
 El área Snapshot copies le permite establecer las siguientes condiciones de umbral para las copias Snapshot en el volumen:
@@ -122,6 +124,7 @@ FlexVol Volumes que ejecuta ONTAP 9.4 o posterior y FlexGroup Volumes que ejecut
 
 
 
+[[qtree-quota-area]]
 == Área Qtree Quota
 
 El área de cuota de qtree permite establecer las siguientes condiciones de umbral de cuota de volumen:
@@ -150,6 +153,7 @@ Especifica el porcentaje al que se considera que un volumen está sobrecargado p
 
 
 
+[[growth-area]]
 == Área de crecimiento
 
 El área de crecimiento permite establecer las siguientes condiciones de umbral para el crecimiento del volumen:
@@ -185,6 +189,7 @@ Si modifica la sensibilidad de la tasa de crecimiento para los volúmenes en el 
 
 
 
+[[inodes-area]]
 == Área Inodes
 
 El área Inodes permite establecer las siguientes condiciones de umbral para inodos:

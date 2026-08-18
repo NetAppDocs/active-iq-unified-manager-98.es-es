@@ -15,6 +15,7 @@ Después de poner en modo inactivo una relación para detener las transferencias
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,12 +24,14 @@ Después de poner en modo inactivo una relación para detener las transferencias
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede seleccionar no más de 10 relaciones en modo inactivo en las que reanudar las transferencias.
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Relaciones de volumen*, seleccione uno o más volúmenes con relaciones en modo inactivo y, en la barra de herramientas, haga clic en *Reanudar*.

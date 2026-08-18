@@ -15,6 +15,7 @@ Es posible crear un informe que agrupa las relaciones de volumen por problema.
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Es posible crear un informe que agrupa las relaciones de volumen por problema.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Utilice los siguientes pasos para crear una vista personalizada que agrupa las relaciones de volumen por problema y, a continuación, programa que se generará un informe para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.
@@ -45,6 +48,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Basándose en los resultados mostrados en el informe, puede investigar la fuente y el impacto de cada tipo de problema.

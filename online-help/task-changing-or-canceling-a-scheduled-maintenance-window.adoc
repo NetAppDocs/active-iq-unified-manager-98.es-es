@@ -15,18 +15,21 @@ Si configuró una ventana de mantenimiento de Unified Manager para que se produz
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Cancelar una ventana de mantenimiento que se está ejecutando actualmente es útil si ha completado el mantenimiento del clúster antes de la hora de finalización de la ventana de mantenimiento programada, y desea volver a recibir eventos y alertas del clúster.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Storage Management* > *Cluster Setup*.

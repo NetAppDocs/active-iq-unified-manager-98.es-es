@@ -15,18 +15,21 @@ Puede usar la interfaz de usuario web de Unified Manager para confirmar o elimin
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Para determinar si la condición del volumen sin conexión fue causada por que la SVM de host se detuvo porque el nodo donde se aloja el volumen raíz de esa SVM está inactivo, debe realizar las siguientes acciones:
 
 
 
+[[steps]]
 == Pasos
 
 . Busque y haga clic en el enlace de hipertexto que aparece bajo la SVM en el panel *dispositivos relacionados* de la página de detalles *volumen / Salud* del volumen sin conexión.
@@ -55,6 +58,7 @@ En la pestaña Nodes de la página Cluster / Health se muestra el estado de la p
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Una vez que confirma que la condición de sin conexión del volumen está provocada por la condición de SVM del host de ese volumen, que sí está provocada por el nodo que aloja el volumen raíz de esa SVM que está inactivo, póngase en contacto con el administrador o operador apropiado para reiniciar manualmente el nodo inactivo.

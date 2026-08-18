@@ -15,12 +15,14 @@ Es posible eliminar una alerta cuando ya no se necesita. Por ejemplo, puede elim
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *Configuración de alertas*.

@@ -15,18 +15,21 @@ Puede cambiar el orden de las acciones de grupo que se aplicarán a los objetos 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede seleccionar una sola fila o varias filas y, a continuación, realizar varias operaciones de arrastrar y soltar para cambiar la clasificación de las acciones del grupo. Sin embargo, debe guardar los cambios para que la repriorización se refleje en la cuadrícula de acciones de grupo.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *grupos*.

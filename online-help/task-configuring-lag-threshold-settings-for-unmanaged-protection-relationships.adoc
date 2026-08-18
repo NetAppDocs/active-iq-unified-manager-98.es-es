@@ -15,12 +15,14 @@ Puede editar la configuración global predeterminada de umbral de advertencia de
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 El tiempo de desfase no debe superar el intervalo de programación de transferencia definido. Por ejemplo, si la programación de transferencia es por hora, el intervalo de demora no debe ser superior a una hora. El umbral de desfase especifica un porcentaje que no debe superar el tiempo de desfase. Con el ejemplo de una hora, si el umbral de desfase se define como 150%, recibirá un evento cuando el tiempo de retraso sea superior a 1.5 horas.
@@ -29,6 +31,7 @@ La configuración descrita en esta tarea se aplica globalmente a todas las relac
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *umbrales de evento* > *relación*.

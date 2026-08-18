@@ -15,6 +15,7 @@ Es posible crear un informe que agrupa volúmenes por el motivo que la relación
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Es posible crear un informe que agrupa volúmenes por el motivo que la relación
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Use los siguientes pasos para crear una vista personalizada que agrupa volúmenes por origen de un error y, a continuación, programa la generación de un informe para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.
@@ -53,6 +56,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Basándose en los resultados mostrados en el informe, puede investigar la fuente y el impacto de cada tipo de fallo.

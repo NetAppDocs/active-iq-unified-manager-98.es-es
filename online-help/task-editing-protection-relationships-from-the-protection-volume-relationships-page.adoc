@@ -15,18 +15,21 @@ Las relaciones de protección existentes se pueden editar para cambiar la tasa d
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Los volúmenes seleccionados deben ser destinos de relaciones de protección. No puede editar las relaciones cuando se seleccionan los volúmenes de origen, los volúmenes compartidos de carga o los volúmenes que no son el destino de una relación de SnapMirror o SnapVault.
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Relaciones de volumen*, seleccione en la lista de volúmenes uno o más volúmenes en la misma SVM para la que desea editar la configuración de relaciones y, a continuación, seleccione *Editar* en la barra de herramientas.

@@ -15,18 +15,21 @@ Es posible especificar el número de meses que se conserva un evento en el servi
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Conservar eventos durante más de 6 meses puede afectar al rendimiento del servidor y no es recomendable.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *retención de datos*.

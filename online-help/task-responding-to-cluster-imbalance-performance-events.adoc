@@ -15,12 +15,14 @@ Unified Manager genera eventos de advertencia de desequilibrio en el clúster cu
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Unified Manager genera eventos de advertencia para incumplimiento de políticas de umbral de desequilibrio de clúster mediante la comparación del valor de capacidad de rendimiento utilizada para todos los nodos del clúster para ver si hay una diferencia de carga del 30 % entre cualquier nodo.
@@ -34,6 +36,7 @@ Estos pasos le ayudan a identificar los siguientes recursos para poder mover car
 
 
 
+[[steps]]
 == Pasos
 
 . Abra la página de detalles *Event* para ver información sobre el evento.
@@ -75,6 +78,7 @@ Puede llevar a cabo la operación de transferencia con System Manager de ONTAP, 
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Después de unos días, compruebe si está recibiendo el mismo evento de desequilibrio de clúster de este clúster.

@@ -15,6 +15,7 @@ Puede anular una transferencia de protección de datos activa cuando desee deten
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Puede anular una transferencia de protección de datos activa cuando desee deten
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La acción Anular no se muestra en las siguientes instancias:
@@ -35,6 +37,7 @@ No puede borrar el punto de comprobación de reinicio para una transferencia de 
 
 
 
+[[steps]]
 == Pasos
 
 . En la pestaña *Protección* de la página de detalles *volumen / Salud*, haga clic con el botón derecho del ratón en la relación en la vista de topología para la transferencia de datos que desea cancelar y seleccione *Anular*.

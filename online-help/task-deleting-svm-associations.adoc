@@ -15,18 +15,21 @@ Es posible eliminar asociaciones de SVM para aplicaciones asociadas a fin de qui
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 El botón *Eliminar* está desactivado hasta que se seleccione al menos una asociación SVM. Cambiar las asociaciones que utilizan las funciones de eliminación y creación afecta solo a las operaciones de aprovisionamiento futuras; no mueve los volúmenes de destino existentes.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Protección* > *Asociaciones de SVM*.

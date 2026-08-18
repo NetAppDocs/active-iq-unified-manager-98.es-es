@@ -15,6 +15,7 @@ Unified Manager incluye un servicio que supervisa problemas de recursos en el si
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Los eventos de la estación de gestión indican un problema con el sistema host en el que está instalado Unified Manager. Algunos ejemplos de problemas de la estación de gestión son que el espacio en disco se ejecuta poco en el sistema host, que Unified Manager carece de un ciclo de recogida de datos normal y que no se completa o se completó tarde un análisis de estadísticas porque se inició el siguiente sondeo de recopilación.
@@ -23,6 +24,7 @@ A diferencia de todos los demás mensajes de eventos de Unified Manager, estos e
 
 
 
+[[steps]]
 == Pasos
 
 . Para ver la información de eventos de la estación de administración, realice estas acciones:

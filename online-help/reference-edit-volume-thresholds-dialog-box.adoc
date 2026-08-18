@@ -21,6 +21,7 @@ Puede configurar la configuración del umbral para la capacidad, las copias Snap
 
 
 
+[[capacity-area]]
 == Área Capacity
 
 El área de capacidad permite establecer las siguientes condiciones de umbral de capacidad de volumen:
@@ -47,6 +48,7 @@ Especifica la cantidad de días restantes antes de que el volumen alcance la cap
 
 
 
+[[snapshot-copies]]
 == Copias Snapshot
 
 El área Snapshot copies le permite establecer las siguientes condiciones de umbral para las copias de Snapshot en el volumen.
@@ -67,6 +69,7 @@ Especifica el número de copias Snapshot en un volumen que se considera demasiad
 
 
 
+[[qtree-quota-area]]
 == Área Qtree Quota
 
 El área Qtree quota permite establecer las siguientes condiciones de umbral de cuota de qtree para los volúmenes seleccionados:
@@ -83,6 +86,7 @@ Especifica el porcentaje al que se considera que un volumen está sobrecompromet
 
 
 
+[[growth-area]]
 == Área de crecimiento
 
 El área de crecimiento permite establecer la siguiente condición de umbral para el crecimiento del volumen:
@@ -108,6 +112,7 @@ Si modifica la sensibilidad de la tasa de crecimiento para los volúmenes en el 
 
 
 
+[[inodes-area]]
 == Área Inodes
 
 El área Inodes permite establecer las siguientes condiciones de umbral para inodos:
@@ -130,6 +135,7 @@ También puede utilizar los controles deslizantes para establecer el valor de um
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Los botones de comando permiten realizar las siguientes tareas para un volumen seleccionado:

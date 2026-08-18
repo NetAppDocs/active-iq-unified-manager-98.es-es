@@ -15,6 +15,7 @@ Puede instalar Unified Manager para supervisar y solucionar problemas de capacid
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * El sistema en el que planea instalar Unified Manager debe cumplir con los requisitos del sistema y del software.
@@ -41,6 +42,7 @@ Se permiten los siguientes caracteres especiales: ~ ! @ # $ * - ? . + { }
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión en Windows con la cuenta de administrador local predeterminada.
@@ -66,6 +68,7 @@ Si no cambia el directorio de instalación, se instala Unified Manager en el dir
 
 
 
+[[results]]
 == Resultados
 
 La instalación crea varios directorios:
@@ -90,6 +93,7 @@ Este es el directorio en el que se almacenan todos los datos generados por la ap
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Puede acceder a la interfaz de usuario web de para realizar la configuración inicial de Unified Manager, como se describe en link:../config/concept-configuring-unified-manager.html["Configurando Active IQ Unified Manager"].

@@ -15,18 +15,21 @@ Puede configurar opciones de eficiencia de destino como la deduplicación, la co
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 De forma predeterminada, la configuración de eficiencia coincide con la del volumen de origen, excepto la configuración de compresión de una relación SnapVault, que se deshabilita de forma predeterminada.
 
 
 
+[[steps]]
 == Pasos
 
 . Haga clic en la ficha *SnapMirror* o en la ficha *SnapVault* del cuadro de diálogo *Configurar protección*, según el tipo de relación que esté configurando.

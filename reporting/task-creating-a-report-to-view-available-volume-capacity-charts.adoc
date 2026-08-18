@@ -15,6 +15,7 @@ Puede crear un informe para analizar la capacidad de volumen disponible en un gr
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Puede crear un informe para analizar la capacidad de volumen disponible en un gr
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Utilice los pasos siguientes para abrir una vista Estado: Todos los volúmenes, descargar la vista en Excel, crear un gráfico de capacidad disponible, cargar el archivo de Excel personalizado y programar el informe final.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.
@@ -97,6 +100,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Según los resultados mostrados en el informe, se recomienda equilibrar la carga en los volúmenes.

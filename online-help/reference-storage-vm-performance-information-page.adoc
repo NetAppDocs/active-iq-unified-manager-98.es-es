@@ -15,6 +15,7 @@ Use la página Storage VM/Performance Information para ver una lista de los atri
 
 
 
+[[storage-vm-attributes]]
 == Atributos de máquinas virtuales de almacenamiento
 
 * *Dirección IP*

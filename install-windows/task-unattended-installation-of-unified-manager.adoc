@@ -15,6 +15,7 @@ Puede instalar Unified Manager sin intervención del usuario mediante la interfa
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión en la interfaz de línea de comandos de Windows mediante la cuenta de administrador local predeterminada.

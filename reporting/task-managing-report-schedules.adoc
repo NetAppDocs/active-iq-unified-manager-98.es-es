@@ -15,6 +15,7 @@ Las programaciones de informes se pueden gestionar desde la página Report Sched
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 [NOTE]
@@ -27,6 +28,7 @@ No es posible programar nuevos informes desde la página Report Schedules. Sólo
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *programas de informes*.

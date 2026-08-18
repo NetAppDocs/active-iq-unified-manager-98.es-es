@@ -15,6 +15,7 @@ La página AutoSupport permite habilitar AutoSupport periódica, o bien enviar u
 
 
 
+[[information-area]]
 == Área de información
 
 * *ID del sistema*
@@ -25,6 +26,7 @@ Muestra el ID del sistema de este servidor de Unified Manager.
 
 
 
+[[on-demand-autosupport-area]]
 == Área On-Demand AutoSupport
 
 Puede generar y enviar un mensaje bajo demanda al soporte técnico, a un destinatario de correo electrónico específico o a ambos:
@@ -45,6 +47,7 @@ Genera y envía un mensaje bajo demanda al soporte técnico, a un destinatario d
 
 
 
+[[periodic-autosupport-area]]
 == Área periódica de AutoSupport
 
 Permite tener mensajes específicos y predefinidos al soporte técnico para el diagnóstico y la resolución de problemas generados periódicamente.
@@ -57,6 +60,7 @@ Indica que desea habilitar la funcionalidad periódica de AutoSupport. Esta func
 
 
 
+[[http-proxy-area]]
 == Área proxy HTTP
 
 Puede designar un proxy para proporcionar acceso a Internet para enviar contenido AutoSupport a soporte si su entorno no proporciona acceso directo desde el servidor de Unified Manager.

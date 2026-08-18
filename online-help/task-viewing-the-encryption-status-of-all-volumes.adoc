@@ -15,12 +15,14 @@ Puede ver una lista de todos los volúmenes y su estado de cifrado actual para p
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Los tipos de cifrado que se pueden aplicar a un volumen son los siguientes:
@@ -33,6 +35,7 @@ Los tipos de cifrado que se pueden aplicar a un volumen son los siguientes:
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.

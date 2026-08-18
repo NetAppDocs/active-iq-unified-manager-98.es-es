@@ -15,18 +15,21 @@ En la vista Health: All Aggregates, puede supervisar su inventario de agregados.
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede ver detalles como la capacidad y la configuración del agregado, y la información sobre el disco en la página de detalles Aggregate / Health. Puede utilizar estos detalles antes de configurar los ajustes del umbral si es necesario.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *agregados*.

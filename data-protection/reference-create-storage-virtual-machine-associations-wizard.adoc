@@ -15,6 +15,7 @@ El asistente Create Storage Virtual Machine Associations le permite asociar las 
 
 
 
+[[select-source-svm]]
 == Seleccione Source SVM
 
 El panel Select Source Storage Virtual Machine permite seleccionar el origen, o la SVM primaria, en la asociación de SVM.
@@ -61,12 +62,14 @@ Especifica una relación de SnapVault como tipo de asociación. Al seleccionar e
 
 
 
+[[select-protection-destinations]]
 == Seleccione Protección de destinos
 
 El panel Select Protection Destinations del asistente Create Storage Virtual Machine Associations permite seleccionar dónde copiar o replicar los datos. Solo se puede crear una asociación en una SVM de destino por clúster.
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Los botones de comando le permiten realizar las siguientes tareas:

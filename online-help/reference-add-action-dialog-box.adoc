@@ -38,6 +38,7 @@ Unified Manager actualmente solo admite el tipo de acción de umbral de volumen.
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Agregar*

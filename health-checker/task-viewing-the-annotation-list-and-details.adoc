@@ -15,6 +15,7 @@ Puede ver la lista de anotaciones que están asociadas dinámicamente a clúster
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Administración de almacenamiento* > *Anotaciones*.

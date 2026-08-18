@@ -15,6 +15,7 @@ Es posible volver a detectar manualmente un clúster en la página Cluster Setup
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Es posible volver a detectar manualmente un clúster si se desea actualizar el clúster, como aumentar el tamaño de un agregado cuando no hay espacio suficiente, y si desea que Unified Manager detecte los cambios realizados.
@@ -23,6 +24,7 @@ Cuando Unified Manager se empareja con OnCommand Workflow Automation (WFA), el e
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Storage Management* > *Cluster Setup*.

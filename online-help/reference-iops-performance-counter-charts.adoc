@@ -30,6 +30,7 @@ Existen cuatro tipos de gráficos IOPS disponibles:
 
 
 
+[[iops-total-counter-chart]]
 == Gráfico de contadores IOPS - total
 
 Muestra el número de operaciones de entrada/salida procesadas por segundo.
@@ -38,6 +39,7 @@ Cuando se muestra para un nodo, al seleccionar «'total'» se muestra la tasa de
 
 
 
+[[iops-breakdown-counter-chart]]
 == IOPS - gráfico de contadores
 
 Muestra los mismos datos de IOPS separados en IOPS de lectura, escritura y otros.
@@ -48,12 +50,14 @@ Cuando se muestra para un nodo, al seleccionar «'desglose» se muestra el desgl
 
 
 
+[[iops-protocols-counter-chart]]
 == IOPS: Gráfico de contadores de protocolos
 
 Muestra los mismos datos de IOPS, pero para las SVM los datos de rendimiento están separados en componentes individuales para el tráfico de los protocolos CIFS, NFS, FCP, NVMe e iSCSI.
 
 
 
+[[iopstb-total-counter-chart]]
 == Gráfico IOPS/TB - total counter
 
 Muestra el número de operaciones de entrada/salida procesadas por segundo según el espacio lógico total que consume el volumen, en terabytes. También denominado densidad de I/o, este contador mide el rendimiento que ofrece una cantidad de capacidad de almacenamiento determinada.
@@ -62,6 +66,7 @@ Esta opción de gráfico solo está disponible cuando el objeto seleccionado es 
 
 
 
+[[zoom-view-button]]
 == *Botón Zoom View*
 
 Muestra una vista ampliada de los datos del gráfico de contadores.

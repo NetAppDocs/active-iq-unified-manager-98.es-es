@@ -15,6 +15,7 @@ Es posible cambiar el proveedor de identidades (IDP) que Unified Manager utiliza
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener la URL y los metadatos de IDP.
@@ -23,12 +24,14 @@ Es posible cambiar el proveedor de identidades (IDP) que Unified Manager utiliza
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 El nuevo IDP se puede configurar antes o después de configurar Unified Manager.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *autenticación SAML*.
@@ -46,6 +49,7 @@ Aparece un cuadro de mensaje para confirmar que desea cambiar la configuración.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Acceda al nuevo IDP e introduzca el URI del servidor de Unified Manager y los metadatos para completar la configuración.

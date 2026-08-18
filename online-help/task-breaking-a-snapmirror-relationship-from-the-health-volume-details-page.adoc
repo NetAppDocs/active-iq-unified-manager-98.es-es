@@ -15,6 +15,7 @@ Es posible interrumpir una relación de protección en la página de detalles Vo
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Es posible interrumpir una relación de protección en la página de detalles Vo
 
 
 
+[[steps]]
 == Pasos
 
 . En la pestaña *Protección* de la página de detalles *volumen / Salud*, seleccione en la topología la relación de SnapMirror que desea romper.

@@ -15,12 +15,14 @@ Cualquier cambio en el certificado de seguridad HTTPS instalado en Unified Manag
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Después de modificar el certificado de seguridad y se reinicia el servidor de Unified Manager, la autenticación SAML no funcionará y los usuarios no podrán acceder a la interfaz gráfica de Unified Manager. Debe actualizar la configuración de autenticación SAML tanto en el servidor IDP como en el servidor de Unified Manager para volver a habilitar el acceso a la interfaz de usuario.
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión en la consola de mantenimiento.

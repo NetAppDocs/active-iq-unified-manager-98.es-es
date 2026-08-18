@@ -15,12 +15,14 @@ Es posible especificar el valor de tiempo de espera de inactividad para Unified 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Esta configuración afecta a todas las sesiones de usuario que han iniciado sesión.
@@ -32,6 +34,7 @@ Esta opción no está disponible si tiene habilitada la autenticación del lengu
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *Configuración de funciones*.

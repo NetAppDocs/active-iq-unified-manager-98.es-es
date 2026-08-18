@@ -15,12 +15,14 @@ Puede utilizar la página Users para ver la lista de usuarios que gestionan obje
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener la función Administrador de aplicaciones.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *usuarios*.

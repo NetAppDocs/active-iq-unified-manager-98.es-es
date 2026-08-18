@@ -15,6 +15,7 @@ En la página Volume Relationships, es posible desactivar una relación de prote
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ En la página Volume Relationships, es posible desactivar una relación de prote
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La acción de inactividad no se muestra en las siguientes instancias:
@@ -34,6 +36,7 @@ La acción de inactividad no se muestra en las siguientes instancias:
 
 
 
+[[steps]]
 == Pasos
 
 . Para desactivar las transferencias para una o más relaciones de protección, en la página *Relaciones de volumen*, seleccione uno o más volúmenes y, en la barra de herramientas, haga clic en *Quiesce*.

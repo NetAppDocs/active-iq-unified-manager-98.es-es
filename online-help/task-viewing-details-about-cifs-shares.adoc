@@ -15,6 +15,7 @@ Puede ver detalles sobre todos los recursos compartidos SMB/CIFS, como el nombre
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * La licencia de CIFS debe estar habilitada en el clúster.
@@ -24,6 +25,7 @@ Puede ver detalles sobre todos los recursos compartidos SMB/CIFS, como el nombre
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 [NOTE]
@@ -33,6 +35,7 @@ No se muestran los recursos compartidos de las carpetas.
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación de la izquierda, siga los siguientes pasos dependiendo de si desea ver todos los recursos compartidos de SMB/CIFS o solo los recursos compartidos de una SVM en particular.

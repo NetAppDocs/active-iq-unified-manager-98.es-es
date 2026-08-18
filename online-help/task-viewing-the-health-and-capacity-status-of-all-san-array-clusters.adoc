@@ -15,18 +15,21 @@ Se pueden usar las páginas del inventario de clústeres para mostrar el estado 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Se puede ver información general de todos los clústeres de cabina SAN en la vista Estado: Todos los clústeres y su capacidad: Todos los clústeres. Además, puede ver detalles en la página de detalles Cluster / Health.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *clústeres*.

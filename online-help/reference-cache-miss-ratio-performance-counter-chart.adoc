@@ -19,6 +19,7 @@ En la parte inferior de la página del gráfico se muestra información sobre la
 
 
 
+[[cache-miss-ratio-total-counter-chart]]
 == Cache Miss Ratio: Tabla de contadores total
 
 Muestra el porcentaje de solicitudes de lectura de las aplicaciones cliente que se devuelven del disco en lugar de ser devueltas de la caché.
@@ -27,6 +28,7 @@ Esta opción de gráfico se aplica solo cuando el objeto seleccionado es un volu
 
 
 
+[[zoom-view-button]]
 == *Botón Zoom View*
 
 Muestra una vista ampliada de los datos del gráfico de contadores.

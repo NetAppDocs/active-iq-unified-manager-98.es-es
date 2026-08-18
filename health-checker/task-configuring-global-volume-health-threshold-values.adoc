@@ -15,12 +15,14 @@ Puede configurar los valores de umbral de estado global para todos los volúmene
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La mayoría de las opciones de umbral tienen valores predeterminados para una mejor supervisión. Sin embargo, puede cambiar los valores para adaptarlos a los requisitos de su entorno.
@@ -34,6 +36,7 @@ El valor predeterminado de 1000 copias de Snapshot se aplica solo a los volúmen
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *umbrales de evento* > *volumen*.

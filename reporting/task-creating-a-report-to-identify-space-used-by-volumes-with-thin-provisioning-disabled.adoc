@@ -15,6 +15,7 @@ Cuando no hay thin provisioning, un volumen ocupa toda la cantidad de espacio en
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -22,12 +23,14 @@ Cuando no hay thin provisioning, un volumen ocupa toda la cantidad de espacio en
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Siga los pasos que se indican a continuación para crear una vista personalizada que muestre las columnas necesarias en el orden correcto y, a continuación, programe un informe que se genere para esa vista.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.
@@ -47,6 +50,7 @@ El informe se envía inmediatamente como prueba. Después de esto, el informe ge
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Según los resultados mostrados en el informe, quizás desee habilitar thin provisioning en ciertos volúmenes.

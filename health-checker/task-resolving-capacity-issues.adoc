@@ -15,18 +15,21 @@ Este flujo de trabajo proporciona un ejemplo de cómo puede resolver un problema
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 En la página Panel, busque un evento de error "'espacio de volumen lleno'" en el panel capacidad de la lista desplegable eventos.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel *Capacity* de la página *Dashboard*, haga clic en el nombre del evento de error Volume Space Full.

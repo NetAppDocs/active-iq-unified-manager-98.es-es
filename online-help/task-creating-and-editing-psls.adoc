@@ -15,6 +15,7 @@ Cuando los niveles de servicio de rendimiento definidos por el sistema no coinci
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener la función Administrador de aplicaciones.
@@ -26,6 +27,7 @@ Cuando los niveles de servicio de rendimiento definidos por el sistema no coinci
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Se pueden crear y editar niveles de servicio de rendimiento personalizados desde la página niveles de servicio de rendimiento definiendo los objetivos de nivel de servicio necesarios para las aplicaciones que accederán al almacenamiento.
@@ -37,6 +39,7 @@ No es posible modificar un nivel de servicio de rendimiento si actualmente se as
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, en *Configuración*, seleccione *Directivas* > *niveles de servicio de rendimiento*.
@@ -67,6 +70,7 @@ Se muestra la página para agregar o editar un nivel de servicio de rendimiento.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Puede aplicar el nivel de servicio de rendimiento nuevo o modificado a las cargas de trabajo (LUN, recursos compartidos de archivos NFS, recursos compartidos de CIFS) desde la página de cargas de trabajo o al aprovisionar una nueva carga de trabajo.

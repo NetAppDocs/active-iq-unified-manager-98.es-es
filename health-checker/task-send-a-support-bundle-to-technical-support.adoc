@@ -15,6 +15,7 @@ Este flujo de trabajo muestra cómo generar, recuperar y enviar un bundle de sop
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Unified Manager almacena un máximo de dos paquetes de soporte generados a la vez.

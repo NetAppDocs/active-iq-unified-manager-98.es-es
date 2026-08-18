@@ -21,6 +21,7 @@ El umbral de desfase especifica un porcentaje que no debe superar el tiempo de d
 
 
 
+[[lag-thresholds-for-unmanaged-relationships-area]]
 == Área umbrales de desfase para relaciones no administradas
 
 El área de desfase le permite establecer umbrales de desfase en las relaciones no administradas para las siguientes condiciones:

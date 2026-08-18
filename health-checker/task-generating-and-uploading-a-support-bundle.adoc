@@ -15,12 +15,14 @@ Es posible generar un bundle de soporte, que contiene información de diagnósti
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener acceso a la consola de mantenimiento como usuario de mantenimiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Como algunos tipos de datos de soporte pueden usar una gran cantidad de recursos del clúster o demorar mucho tiempo para completarse, cuando selecciona el paquete de soporte completo puede especificar los tipos de datos que se incluirán o excluir para reducir el tamaño del paquete de soporte. También tiene la opción de crear un paquete de soporte ligero que contenga sólo 30 días de registros y registros de la base de datos de configuración, lo que excluye datos de rendimiento, archivos de grabación de adquisición y volcado de pila del servidor.
@@ -29,6 +31,7 @@ Unified Manager almacena solo los dos paquetes de soporte generados más recient
 
 
 
+[[steps]]
 == Pasos
 
 . En la consola de mantenimiento *Menú principal*, seleccione *Soporte/Diagnóstico*.
@@ -90,6 +93,7 @@ El bundle de soporte se carga a NetApp.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Si el servidor de Unified Manager no está conectado a Internet o si no puede cargar el bundle de soporte por cualquier otro motivo, puede recuperarlo y enviarlo manualmente. Puede recuperarlo con un cliente SFTP o con comandos de la CLI de UNIX o Linux. En instalaciones de Windows puede utilizar Remote Desktop (RDP) para recuperar el paquete de soporte.

@@ -21,12 +21,14 @@ La parte inferior de la página de gráfico muestra información sobre la capaci
 
 
 
+[[available-iops-total-counter-chart]]
 == Gráfico Available IOPS - total counter
 
 Muestra el número de operaciones de entrada/salida por segundo que están disponibles actualmente (libres) en el objeto de almacenamiento seleccionado. Este número es el resultado de restar las IOPS actualmente usadas a las IOPS totales que Unified Manager calcula que el objeto puede realizar.
 
 
 
+[[zoom-view-button]]
 == *Botón Zoom View*
 
 Muestra una vista ampliada de los datos del gráfico de contadores.

@@ -15,12 +15,14 @@ Puede ver los volúmenes y las LUN que se encuentran en los mismos grupos de pol
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Los pasos para comparar el rendimiento de los volúmenes en el mismo grupo de políticas de calidad de servicio se muestran a continuación. Los pasos para ver esta información de una LUN son similares.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.

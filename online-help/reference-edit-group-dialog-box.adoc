@@ -27,6 +27,7 @@ Proporciona una descripción significativa del grupo. Puede editar este campo cu
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 Los botones de comando permiten guardar o cancelar los cambios realizados en el grupo.

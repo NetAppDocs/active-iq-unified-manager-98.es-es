@@ -15,12 +15,14 @@ Es posible que deba deshabilitar la autenticación SAML desde la consola de mant
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener acceso a la consola de mantenimiento como usuario de mantenimiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Cuando se deshabilita la autenticación SAML, los proveedores de servicios de directorio configurados, como Active Directory o LDAP, realizan la autenticación de inicio de sesión. Los usuarios locales y los usuarios de mantenimiento podrán acceder a la interfaz gráfica de usuario además de los usuarios remotos configurados.
@@ -34,6 +36,7 @@ Unified Manager se reinicia automáticamente después de deshabilitar la autenti
 ====
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión en la consola de mantenimiento.
@@ -46,12 +49,14 @@ Aparece un mensaje para confirmar que desea deshabilitar la autenticación SAML 
 
 
 
+[[results]]
 == Resultados
 
 La próxima vez que los usuarios remotos intenten acceder a la interfaz gráfica de Unified Manager, deberán introducir sus credenciales en la página de inicio de sesión de Unified Manager en lugar de en la página de inicio de sesión de IDP.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Si se requiere, acceda a IDP y elimine la URL del servidor de Unified Manager y los metadatos.

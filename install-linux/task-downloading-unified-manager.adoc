@@ -15,18 +15,21 @@ Debe descargar Unified Manager``.zip`` Archivo del sitio de soporte de NetApp pa
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener credenciales de inicio de sesión en el sitio de soporte de NetApp.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede descargar el mismo paquete de instalación de Unified Manager para sistemas Red Hat Enterprise Linux y CentOS.
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión en el sitio de soporte de NetApp y desplácese hasta la página *Descargar* para Unified Manager: https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["Sitio de soporte de NetApp"^]

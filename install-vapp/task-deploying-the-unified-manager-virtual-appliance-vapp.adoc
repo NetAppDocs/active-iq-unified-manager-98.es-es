@@ -15,6 +15,7 @@ Después de descargar el archivo de instalación, debe poner en marcha Unified M
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe revisar los requisitos del sistema. Realice los cambios necesarios antes de implementar el dispositivo virtual de Unified Manager.
@@ -46,6 +47,7 @@ Obtenga la siguiente información antes de implementar el dispositivo virtual:
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 A partir de Unified Manager 9.8, VMware Tools se ha sustituido por Open VM Tools  `open-vm-tools`). No es necesario instalar VMware Tools como parte del proceso de instalación debido a esto `open-vm-tools` Se incluye en el paquete de instalación de Unified Manager.
@@ -56,6 +58,7 @@ Se admite la alta disponibilidad de VMware para el dispositivo virtual de Unifie
 
 
 
+[[steps]]
 == Pasos
 
 . En vSphere Client, haga clic en *Archivo* > *implementar plantilla OVF*.
@@ -122,6 +125,7 @@ La consola de máquinas virtuales muestra la URL para la interfaz de usuario web
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Puede acceder a la interfaz de usuario web para realizar la configuración inicial de Unified Manager, tal como se describe en _Configuring Active IQ Unified Manager_.

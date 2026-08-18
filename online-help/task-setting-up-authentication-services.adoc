@@ -15,6 +15,7 @@ Los servicios de autenticación permiten la autenticación de usuarios remotos o
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe haber habilitado la autenticación remota.
@@ -23,6 +24,7 @@ Los servicios de autenticación permiten la autenticación de usuarios remotos o
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *autenticación remota*.

@@ -15,6 +15,7 @@ Puede mostrar una lista de todos los grupos de políticas de calidad de servicio
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *grupos de políticas QoS*.

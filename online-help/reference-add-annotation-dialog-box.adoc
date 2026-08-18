@@ -27,6 +27,7 @@ Especifica una descripción significativa de la anotación.
 
 
 
+[[annotation-values]]
 == Valores de anotación
 
 * *Agregar*
@@ -41,6 +42,7 @@ Elimina el valor seleccionado para una anotación.
 
 
 
+[[command-buttons]]
 == Botones de comando
 
 * *Guardar y cerrar*

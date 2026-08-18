@@ -15,6 +15,7 @@ Para acceder rápidamente a un objeto específico, puede utilizar el campo *Busc
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener una de las siguientes funciones para realizar esta tarea: Operador, Administrador de aplicaciones o Administrador de almacenamiento.
@@ -23,6 +24,7 @@ Para acceder rápidamente a un objeto específico, puede utilizar el campo *Busc
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Al utilizar el valor del menú desplegable "'todo'", la búsqueda global muestra el número total de resultados encontrados en todas las categorías de objetos; con un máximo de 25 resultados de búsqueda para cada categoría de objetos. Puede seleccionar un tipo de objeto específico en el menú desplegable para restringir la búsqueda dentro de un tipo de objeto específico. En este caso, la lista devuelta no está restringida a los 25 objetos principales.
@@ -55,6 +57,7 @@ No se pueden realizar búsquedas en los puertos y las LIF en la barra de búsque
 ====
 
 
+[[steps]]
 == Pasos
 
 . Seleccione un tipo de objeto en el menú para afinar los resultados de búsqueda sólo para un único tipo de objeto.

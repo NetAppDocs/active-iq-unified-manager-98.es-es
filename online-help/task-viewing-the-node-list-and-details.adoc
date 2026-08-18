@@ -15,18 +15,21 @@ Puede usar la vista Health: All Nodes para ver la lista de nodos en los clúster
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Es posible ver detalles como el estado del nodo, el clúster que contiene el nodo, detalles de capacidad del agregado (usado y total) y detalles de capacidad bruta (utilizable, de reserva y total). También puede obtener información acerca de las parejas de alta disponibilidad, bandejas de discos y puertos.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *nodos*.

@@ -25,12 +25,14 @@ Hay dos tipos de gráficos MB/s disponibles:
 
 
 
+[[mbs-total-counter-chart]]
 == MB/s - Gráfico de contadores total
 
 Muestra el número de megabytes de datos transferidos hacia y desde el objeto seleccionado por segundo.
 
 
 
+[[mbs-breakdown-counter-chart]]
 == MB/s: Tabla de contadores de desglose
 
 Muestra los mismos datos MB/s separados en las operaciones de lectura de disco, lectura, escritura y otras operaciones de Flash Cache.
@@ -44,6 +46,7 @@ Los datos de Flash Cache solo se muestran para nodos, y solo cuando se instala u
 ====
 
 
+[[zoom-view-button]]
 == *Botón Zoom View*
 
 Muestra una vista ampliada de los datos del gráfico de contadores.

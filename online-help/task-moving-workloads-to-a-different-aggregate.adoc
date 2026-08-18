@@ -15,6 +15,7 @@ Puede usar Unified Manager para ayudar a identificar un agregado con un menor ni
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -25,6 +26,7 @@ Puede usar Unified Manager para ayudar a identificar un agregado con un menor ni
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Estos pasos le ayudan a identificar los siguientes recursos para mover cargas de trabajo de alto rendimiento a un agregado más bajo utilizado:
@@ -35,6 +37,7 @@ Estos pasos le ayudan a identificar los siguientes recursos para mover cargas de
 
 
 
+[[steps]]
 == Pasos
 
 . Identifique el agregado del clúster que es el más utilizado:
@@ -80,6 +83,7 @@ Puede llevar a cabo la operación de transferencia con System Manager de ONTAP, 
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Tras unos días, compruebe si está recibiendo el mismo tipo de eventos de este nodo o agregado.

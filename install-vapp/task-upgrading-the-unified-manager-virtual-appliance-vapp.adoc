@@ -15,6 +15,7 @@ Puede actualizar el dispositivo virtual de Unified Manager desde las versiones 9
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Asegúrese de lo siguiente:
@@ -40,6 +41,7 @@ xref:reference-vmware-software-and-installation-requirements.adoc[Requisitos de 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Durante el proceso de actualización, Unified Manager no está disponible. Debe completar todas las operaciones en ejecución antes de actualizar Unified Manager.
@@ -48,6 +50,7 @@ Si ha emparejado Workflow Automation y Unified Manager, debería actualizar manu
 
 
 
+[[steps]]
 == Pasos
 
 . En vSphere Client, haga clic en *Inicio* > *Inventario* > *VMs and Templates*.
@@ -81,6 +84,7 @@ Se cerrará automáticamente la sesión de la consola de mantenimiento.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Puede iniciar sesión en la interfaz de usuario web para utilizar la versión actualizada de Unified Manager. Tenga en cuenta que debe esperar a que el proceso de detección finalice antes de realizar cualquier tarea en la interfaz de usuario de.

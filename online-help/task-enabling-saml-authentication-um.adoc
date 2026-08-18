@@ -15,6 +15,7 @@ Puede habilitar la autenticación del lenguaje de marcado de aserción de seguri
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe haber configurado la autenticación remota y verificado que la autenticación se ha realizado correctamente.
@@ -26,6 +27,7 @@ Puede habilitar la autenticación del lenguaje de marcado de aserción de seguri
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Después de habilitar la autenticación SAML de Unified Manager, los usuarios no pueden acceder a la interfaz gráfica de usuario hasta que el IDP se haya configurado con la información de host del servidor de Unified Manager. Por lo tanto, debe estar preparado para completar ambas partes de la conexión antes de iniciar el proceso de configuración. El IDP se puede configurar antes o después de configurar Unified Manager.
@@ -39,6 +41,7 @@ Unified Manager se reinicia automáticamente después de completar la configurac
 ====
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *autenticación SAML*.
@@ -63,12 +66,14 @@ Aparece un cuadro de mensaje para confirmar que desea completar la configuració
 
 
 
+[[results]]
 == Resultados
 
 La próxima vez que los usuarios remotos autorizados intenten acceder a la interfaz gráfica de Unified Manager, deberán introducir sus credenciales en la página de inicio de sesión de IDP en lugar de en la página de inicio de sesión de Unified Manager.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Si no se ha completado todavía, acceda a IDP e introduzca el URI del servidor de Unified Manager y los metadatos para completar la configuración.

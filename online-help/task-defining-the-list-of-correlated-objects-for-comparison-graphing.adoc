@@ -15,6 +15,7 @@ Puede definir una lista de objetos correlacionados para la comparación de datos
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede agregar cualquier objeto de la cuadrícula de objetos correlacionados a los paneles comparación y Diagrama de contador. Esto permite ver y comparar datos de varios objetos y con el objeto raíz. Puede agregar y quitar objetos a y desde la cuadrícula de objetos correlacionados; sin embargo, el objeto raíz del panel de comparación no se puede quitar.
@@ -26,6 +27,7 @@ Al agregar muchos objetos al panel comparativo, puede afectar negativamente al r
 ====
 
 
+[[steps]]
 == Pasos
 
 . En la cuadrícula de objetos, busque el objeto que desea agregar y haga clic en el botón *Agregar*.

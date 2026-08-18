@@ -15,18 +15,21 @@ Puede editar un pool de recursos existente cuando desee cambiar el nombre del po
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 El botón *Editar* sólo se activa cuando se selecciona un pool de recursos. Si se selecciona más de un pool de recursos, el botón *Editar* está desactivado.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Protección* > *agrupaciones de recursos*.

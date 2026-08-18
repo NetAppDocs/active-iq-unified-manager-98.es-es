@@ -15,6 +15,7 @@ La Ayuda incluye información acerca de todas las funciones incluidas en Active 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La ayuda se encuentra disponible en cada pestaña y en la barra de menú de la interfaz de usuario de Unified Manager.
@@ -23,6 +24,7 @@ La herramienta de búsqueda de la Ayuda no funciona para palabras parciales.
 
 
 
+[[choices]]
 == Opciones
 
 * Para obtener información acerca de campos o parámetros específicos, haga clic en image:../media/helpicon-um60.gif["Icono para la ayuda contextual"].

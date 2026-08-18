@@ -15,6 +15,7 @@ Hay muchas formas de iniciar el analizador de cargas de trabajo desde la interfa
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Análisis de carga de trabajo*.

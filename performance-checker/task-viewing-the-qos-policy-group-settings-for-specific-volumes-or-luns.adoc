@@ -15,12 +15,14 @@ Puede ver los grupos de políticas de calidad de servicio que se aplican a sus v
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 A continuación se muestran los pasos para ver la política de calidad de servicio que se aplica a un volumen. Los pasos para ver esta información de una LUN son similares.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.

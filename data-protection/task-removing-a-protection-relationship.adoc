@@ -15,6 +15,7 @@ En la página Volume Relationships, puede quitar una relación de protección pa
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ En la página Volume Relationships, puede quitar una relación de protección pa
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Relaciones de volumen*, seleccione uno o más volúmenes con relaciones de protección que desee quitar y, en la barra de herramientas, haga clic en *Quitar*.

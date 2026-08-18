@@ -15,18 +15,21 @@ Puede realizar una actualización a una versión más reciente de OpenJDK en el 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener privilegios de administrador de Windows en el sistema en el que está instalado Unified Manager.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Puede actualizar versiones de OpenJDK dentro de las familias de versiones. Por ejemplo, puede actualizar de OpenJDK 11.0.6 a OpenJDK 11.0.7, pero no puede actualizar directamente de OpenJDK 11 a OpenJDK 12.
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión como usuario administrador en la máquina host de Unified Manager.

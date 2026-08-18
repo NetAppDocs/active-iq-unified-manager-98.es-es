@@ -15,6 +15,7 @@ Puede detener y desinstalar Unified Manager desde el host Red Hat Enterprise Lin
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener acceso de usuario raíz al servidor desde el que desea quitar Unified Manager.
@@ -24,6 +25,7 @@ Puede detener y desinstalar Unified Manager desde el host Red Hat Enterprise Lin
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión como usuario raíz en el servidor en el que desea quitar Unified Manager.
@@ -36,6 +38,7 @@ Este paso elimina todos los paquetes de RPM de NetApp asociados. No elimina los 
 
 
 
+[[results]]
 == Resultados
 
 Una vez finalizada esta operación, se elimina el software. Todos los datos del `/opt/netapp/data` el directorio se mueve al `/opt/netapp/data/BACKUP` carpeta tras la desinstalación. Al desinstalar Unified Manager también se quitan los paquetes de Java y MySQL, a menos que los paquetes sean necesarios y los use otra aplicación del sistema. Sin embargo, los datos de MySQL no se eliminan.

@@ -15,12 +15,14 @@ Es posible usar la página Resource Pools para ver el inventario del pool de rec
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Protección* > *agrupaciones de recursos*.

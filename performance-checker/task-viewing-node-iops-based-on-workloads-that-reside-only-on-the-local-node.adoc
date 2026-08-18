@@ -15,6 +15,7 @@ El gráfico de contadores IOPS del nodo puede destacar dónde las operaciones so
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Las versiones «local» de estos gráficos de contadores son similares a los gráficos de nodos de la capacidad de rendimiento y la utilización porque también muestran solo las estadísticas de los datos que residen en volúmenes locales.
@@ -23,6 +24,7 @@ Comparando las versiones "'local'" de estos gráficos de contadores con las vers
 
 
 
+[[steps]]
 == Pasos
 
 . En la página *Performance/Node Explorer* del nodo seleccionado, en el gráfico IOPS, seleccione *total* en el menú desplegable.

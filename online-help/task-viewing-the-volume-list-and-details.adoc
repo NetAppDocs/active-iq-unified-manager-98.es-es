@@ -15,18 +15,21 @@ En la vista Health: Todos los volúmenes, es posible supervisar el inventario de
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 También se puede usar la página de detalles Volume / Health para ver información detallada sobre los volúmenes que se supervisan, incluida la capacidad, la eficiencia, la configuración y la protección de los volúmenes. También es posible ver información sobre los dispositivos relacionados y las alertas relacionadas para un volumen específico.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *almacenamiento* > *volúmenes*.

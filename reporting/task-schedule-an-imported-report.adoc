@@ -15,6 +15,7 @@ Es posible programar los informes existentes que se crearon e importaron en una 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La programación de informes importados requiere lo siguiente:
@@ -27,6 +28,7 @@ Después de actualizar a Unified Manager 9.6 GA o una versión posterior, la pá
 
 
 
+[[steps]]
 == Pasos
 
 . Abra la página *programas de informes*. Si ha importado informes, aparece un mensaje.

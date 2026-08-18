@@ -15,6 +15,7 @@ Puede verificar que el script se ejecute correctamente cuando se genera una aler
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de administrador de aplicaciones o de administrador del almacenamiento.
@@ -23,6 +24,7 @@ Puede verificar que el script se ejecute correctamente cuando se genera una aler
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *Storage Management* > *Scripts*.

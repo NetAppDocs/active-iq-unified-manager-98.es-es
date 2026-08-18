@@ -15,6 +15,7 @@ Puede configurar la programación en la que se crean backups de Unified Manager 
 
 
 
+[[before-you-begin]]
 == Antes de empezar
 
 * Debe tener el rol de operador, administrador de aplicaciones o administrador de almacenamiento.
@@ -24,12 +25,14 @@ Puede configurar la programación en la que se crean backups de Unified Manager 
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 Los backups de Snapshot se crean en solo unos minutos y la base de datos de Unified Manager se bloquea solo durante unos pocos segundos.
 
 
 
+[[steps]]
 == Pasos
 
 . En el panel de navegación izquierdo, haga clic en *General* > *copia de seguridad de la base de datos*.
@@ -44,12 +47,14 @@ El valor predeterminado para el número de retención es 10. El número máximo 
 
 
 
+[[results]]
 == Resultados
 
 Los archivos de backup de Snapshot se crean según la programación. Puede ver los archivos de copia de seguridad disponibles en la página copia de seguridad de la base de datos.
 
 
 
+[[after-you-finish]]
 == Después de terminar
 
 Debido a la importancia de este volumen y de las copias de Snapshot, puede crear una o dos alertas para este volumen, de modo que reciba una notificación cuando:

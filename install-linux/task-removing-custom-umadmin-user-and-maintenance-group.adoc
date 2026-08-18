@@ -15,12 +15,14 @@ Si ha creado un directorio inicial personalizado para definir su propia cuenta d
 
 
 
+[[about-this-task]]
 == Acerca de esta tarea
 
 La desinstalación estándar de Unified Manager no quita una cuenta de mantenimiento y usuario umadmin definida de forma personalizada. Debe eliminar estos elementos manualmente.
 
 
 
+[[steps]]
 == Pasos
 
 . Inicie sesión como usuario root en el servidor Red Hat Enterprise Linux.
